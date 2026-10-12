@@ -15,9 +15,9 @@ Dibujar el diagrama E/R del enunciado (`enunciado.md`): compañías, representan
 
 ## Progreso
 
-Vamos por capas: Claude propone cada paso explicado y Daniel lo dibuja.
+Vamos por capas: Daniel intenta cada paso, Claude corrige explicando el porqué y Daniel lo dibuja.
 
-- [ ] Paso 1: entidades y sus claves (8 rectángulos)
+- [x] Paso 1: entidades. Daniel sacó 10 candidatas; quedan 8: Compañía, Representante, Dispositivo, Stand, Sala, Evento, Periodista, Patrocinador («productos» = Dispositivo; «presentador» será atributo). Falta que las dibuje.
 - [ ] Paso 2: relaciones
 - [ ] Paso 3: cardinalidades y tipo de cada relación
 - [ ] Paso 4: atributos (de entidad y de relación)
