@@ -18,7 +18,13 @@ Dibujar el diagrama E/R del enunciado (`enunciado.md`): compañías, representan
 Vamos por capas: Daniel intenta cada paso, Claude corrige explicando el porqué y Daniel lo dibuja.
 
 - [x] Paso 1: entidades. Daniel sacó 10 candidatas; quedan 8: Compañía, Representante, Dispositivo, Stand, Sala, Evento, Periodista, Patrocinador («productos» = Dispositivo; «presentador» será atributo). Falta que las dibuje.
-- [ ] Paso 2: relaciones
+- [x] Borrador v1 (`borrador-v1.webp`): 8 entidades y todos sus atributos dibujados. Correcciones pendientes:
+  - Claves con subrayado punteado → continuo (punteado = clave alternativa).
+  - Periodista: quitar subrayado de nombre y apellido.
+  - fecha y presentador: quitar de Evento y colgarlos del rombo.
+  - Rombo «presentan» → «realizar», y unirlo también a Compañía (relación ternaria Compañía–Sala–Evento).
+  - Detalles: «Representate» → «Representante»; «fecha» de Dispositivo → «fechaLanzamiento»; nota de edad → «edad = fechaActual − fechaNacimiento».
+- [ ] Paso 2: relaciones (faltan las de Representante, Dispositivo, Stand, Periodista y Patrocinador; Daniel las busca)
 - [ ] Paso 3: cardinalidades y tipo de cada relación
 - [ ] Paso 4: atributos (de entidad y de relación)
 - [ ] Paso 5: repaso frase a frase del enunciado
