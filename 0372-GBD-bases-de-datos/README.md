@@ -11,6 +11,6 @@
 
 | Ejercicio | Unidad | Entrega | Estado |
 |---|---|---|---|
-| _(ninguno todavía)_ | | | |
+| [Diagrama E/R: Mobile World Congress](ejercicios/2026-10-12-er-mobile-world-congress/) | Modelo E/R | por confirmar | 🔄 En curso |
 
 <!-- Estado: ⏳ Sin empezar · 🔄 En curso · ✅ Terminado · 📤 Entregado -->

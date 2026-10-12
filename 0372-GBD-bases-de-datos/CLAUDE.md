@@ -19,7 +19,7 @@
 
 - **Modo:** 🧭 guiado paso a paso. Primero entender el enunciado y luego construir el diagrama por pasos, explicando cada uno.
 - **¿Seguir los apuntes al pie de la letra?:** **Sí, solo los apuntes.** Misma notación, herramientas y forma de escribir SQL que el profesor. Si propones algo que no sale en los apuntes, avísalo con «⚠️ Esto no sale en los apuntes: lo propongo porque…» y ofrece primero la alternativa de los apuntes, si la hay.
-- **Qué hago yo / qué hace Daniel:** en cada paso explico qué hay que hacer y por qué; Daniel dibuja el diagrama. Quién propone primero en cada paso (Daniel o yo): por confirmar con él.
+- **Qué hago yo / qué hace Daniel:** en cada paso explico qué hay que hacer y por qué; Daniel dibuja el diagrama. Por defecto, yo propongo cada paso explicado y Daniel lo dibuja; si en algún paso quiere intentarlo él primero, lo dirá.
 
 ### Pasos para sacar un diagrama E/R de un enunciado
 
