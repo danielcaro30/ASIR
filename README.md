@@ -10,7 +10,7 @@ Ejercicios del Grado Superior de **Administración de Sistemas Informáticos en 
 |---|---|---|---|---|
 | 0369 | ISO | [Implantación de sistemas operativos](0369-ISO-sistemas-operativos/) | Xavier Castejón Domenech | 🧭 Guiado paso a paso en la VM, siguiendo los apuntes y con capturas |
 | 0371 | FH | [Fundamentos de hardware](0371-FH-hardware/) | Marina Iriarte Fuster | ⏳ Por definir |
-| 0372 | GBD | [Gestión de bases de datos](0372-GBD-bases-de-datos/) | David Porti Pujal | 🔄 En definición: solo los apuntes, con explicación; el modo se decide sobre la marcha |
+| 0372 | GBD | [Gestión de bases de datos](0372-GBD-bases-de-datos/) | David Porti Pujal | 🧭 Guiado paso a paso, con explicación, siguiendo solo los apuntes |
 | 1709 | IPE I | [Itinerario personal para la empleabilidad I](1709-IPE1-empleabilidad/) | Yolanda Serrano Moyano | ⏳ Por definir |
 
 La primera vez que trabajemos una asignatura «por definir», te preguntaré cómo quieres llevarla y lo dejaré apuntado en su carpeta.
