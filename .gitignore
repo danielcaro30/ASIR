@@ -1,0 +1,17 @@
+# Archivos temporales de Office (aparecen mientras un Word está abierto)
+~$*
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Discos e imágenes de máquinas virtuales (demasiado grandes para git)
+*.iso
+*.ova
+*.vmdk
+*.vmem
+*.vmsn
+*.vmss
+*.nvram
