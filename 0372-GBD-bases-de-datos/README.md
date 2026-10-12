@@ -1,6 +1,6 @@
 # 0372 · GBD: Gestión de bases de datos
 
-**Método de trabajo:** ⏳ Por definir (ver [CLAUDE.md](CLAUDE.md)).
+**Método de trabajo:** 🔄 En definición: solo los apuntes, con explicación; el modo se decide sobre la marcha (ver [CLAUDE.md](CLAUDE.md)).
 
 ## Carpetas
 
