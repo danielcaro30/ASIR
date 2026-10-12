@@ -24,7 +24,7 @@ Vamos por capas: Daniel intenta cada paso, Claude corrige explicando el porqué 
   - fecha y presentador: quitar de Evento y colgarlos del rombo.
   - Rombo «presentan» → «realizar», y unirlo también a Compañía (relación ternaria Compañía–Sala–Evento).
   - Detalles: «Representate» → «Representante»; «fecha» de Dispositivo → «fechaLanzamiento»; nota de edad → «edad = fechaActual − fechaNacimiento».
-- [x] Borrador v2 (`borrador-v2-parcial.png`, captura parcial): claves con subrayado continuo, ternaria Compañía–Sala–Evento con fecha y presentador en el rombo. ✅ Rombo aún se llama «presentan» (opcional: «realizar»). No se ven en la captura Periodista, Representante ni Dispositivo.
+- [x] Borrador v2 (`borrador-v2-parcial.png`, captura parcial): claves con subrayado continuo, ternaria Compañía–Sala–Evento con fecha y presentador en el rombo. Rombo renombrado a «realizar». Daniel pidió repetir por qué fecha y presentador van en el rombo (explicado con la tabla de realizaciones y el ejemplo de la nota de un examen). No se ven en la captura Periodista, Representante ni Dispositivo.
 - [ ] Paso 2: relaciones (faltan las de Representante, Dispositivo, Stand, Periodista y Patrocinador; Daniel las busca)
 - [ ] Paso 3: cardinalidades y tipo de cada relación
 - [ ] Paso 4: atributos (de entidad y de relación)
