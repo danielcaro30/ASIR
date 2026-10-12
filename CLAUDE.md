@@ -4,17 +4,17 @@ Daniel estudia el **Grado Superior de ASIR** (Administración de Sistemas Inform
 
 ## 1. Identifica la asignatura antes de nada
 
-- Pistas: lo que diga Daniel, la cabecera de los apuntes o del Word (p. ej. «0369. Implantación de sistemas operativos»), el código (03xx) o el tema.
+- Pistas: lo que diga Daniel, la cabecera de los apuntes o del Word (p. ej. «0369. Implantación de sistemas operativos»), el código, el nombre del docente o el tema.
+- En la plataforma del centro (grupo **PFP 2609**, 1º ASIR) los cursos se llaman `2609_ASIR_<código>_1A_O_<nombre>_C`, p. ej. `2609_ASIR_0369_1A_O_Implantación de sistemas operativos_C`. Ese código identifica la asignatura.
 - Lee **siempre** el `CLAUDE.md` de esa carpeta antes de proponer nada y aplica **solo** ese método. **No mezcles métodos** entre asignaturas.
 - Si no está claro de qué asignatura es, pregunta en una línea.
 
-| Código | Siglas | Asignatura | Carpeta |
-|---|---|---|---|
-| 0369 | ISO | Implantación de sistemas operativos | `0369-ISO-sistemas-operativos/` |
-| 0370 | PAR | Planificación y administración de redes | `0370-PAR-redes/` |
-| 0371 | FH | Fundamentos de hardware | `0371-FH-hardware/` |
-| 0372 | GBD | Gestión de bases de datos | `0372-GBD-bases-de-datos/` |
-| 0373 | LMSGI | Lenguajes de marcas y sistemas de gestión de información | `0373-LMSGI-lenguajes-de-marcas/` |
+| Código | Siglas | Asignatura | Docente | Carpeta |
+|---|---|---|---|---|
+| 0369 | ISO | Implantación de sistemas operativos | Xavier Castejón Domenech | `0369-ISO-sistemas-operativos/` |
+| 0371 | FH | Fundamentos de hardware | Marina Iriarte Fuster | `0371-FH-hardware/` |
+| 0372 | GBD | Gestión de bases de datos | David Porti Pujal | `0372-GBD-bases-de-datos/` |
+| 1709 | IPE I | Itinerario personal para la empleabilidad I | Yolanda Serrano Moyano | `1709-IPE1-empleabilidad/` |
 
 El método actual de cada una está en la tabla del `README.md` raíz.
 

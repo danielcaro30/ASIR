@@ -6,7 +6,7 @@
 ## Datos
 
 - **Curso:** 1º
-- **Profesor/a:** 
+- **Profesor/a:** Marina Iriarte Fuster
 - **Evaluación:** <exámenes, prácticas, porcentajes…>
 
 ## Material que da el profesor

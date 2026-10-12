@@ -6,6 +6,7 @@
 ## Datos
 
 - **Curso:** 1º
+- **Profesor:** Xavier Castejón Domenech
 - **Contenidos:** Windows, Ubuntu, usuarios y grupos, permisos, directivas, registro, redes del sistema, etc.
 - Los apuntes suelen llevar en la cabecera «0369. Implantación de sistemas operativos».
 

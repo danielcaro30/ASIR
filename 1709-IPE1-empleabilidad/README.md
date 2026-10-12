@@ -1,4 +1,4 @@
-# 0373 · LMSGI: Lenguajes de marcas y sistemas de gestión de información
+# 1709 · IPE I: Itinerario personal para la empleabilidad I
 
 **Método de trabajo:** ⏳ Por definir (ver [CLAUDE.md](CLAUDE.md)).
 

@@ -4,13 +4,14 @@ Ejercicios del Grado Superior de **Administración de Sistemas Informáticos en 
 
 ## Asignaturas
 
-| Código | Siglas | Asignatura | Método de trabajo |
-|---|---|---|---|
-| 0369 | ISO | [Implantación de sistemas operativos](0369-ISO-sistemas-operativos/) | 🧭 Guiado paso a paso en la VM, siguiendo los apuntes y con capturas |
-| 0370 | PAR | [Planificación y administración de redes](0370-PAR-redes/) | ⏳ Por definir |
-| 0371 | FH | [Fundamentos de hardware](0371-FH-hardware/) | ⏳ Por definir |
-| 0372 | GBD | [Gestión de bases de datos](0372-GBD-bases-de-datos/) | ⏳ Por definir |
-| 0373 | LMSGI | [Lenguajes de marcas y sistemas de gestión de información](0373-LMSGI-lenguajes-de-marcas/) | ⏳ Por definir |
+1º ASIR · grupo PFP 2609
+
+| Código | Siglas | Asignatura | Docente | Método de trabajo |
+|---|---|---|---|---|
+| 0369 | ISO | [Implantación de sistemas operativos](0369-ISO-sistemas-operativos/) | Xavier Castejón Domenech | 🧭 Guiado paso a paso en la VM, siguiendo los apuntes y con capturas |
+| 0371 | FH | [Fundamentos de hardware](0371-FH-hardware/) | Marina Iriarte Fuster | ⏳ Por definir |
+| 0372 | GBD | [Gestión de bases de datos](0372-GBD-bases-de-datos/) | David Porti Pujal | ⏳ Por definir |
+| 1709 | IPE I | [Itinerario personal para la empleabilidad I](1709-IPE1-empleabilidad/) | Yolanda Serrano Moyano | ⏳ Por definir |
 
 La primera vez que trabajemos una asignatura «por definir», te preguntaré cómo quieres llevarla y lo dejaré apuntado en su carpeta.
 
@@ -55,6 +56,6 @@ ASIR/
 └── …una carpeta igual por asignatura
 ```
 
-## Añadir asignaturas (p. ej. en 2º)
+## Añadir asignaturas
 
-Dime cuál y la creo a partir de `_plantillas/asignatura/`. Las de 2º de ASIR suelen ser 0374 Administración de sistemas operativos (ASO), 0375 Servicios de red e Internet (SRI), 0376 Implantación de aplicaciones web (IAW), 0377 Administración de sistemas gestores de bases de datos (ASGBD) y 0378 Seguridad y alta disponibilidad (SAD).
+Dime cuál y la creo a partir de `_plantillas/asignatura/`. Las otras de 1º de ASIR son 0370 Planificación y administración de redes (PAR) y 0373 Lenguajes de marcas y sistemas de gestión de información (LMSGI). Las de 2º suelen ser 0374 Administración de sistemas operativos (ASO), 0375 Servicios de red e Internet (SRI), 0376 Implantación de aplicaciones web (IAW), 0377 Administración de sistemas gestores de bases de datos (ASGBD) y 0378 Seguridad y alta disponibilidad (SAD).
