@@ -27,7 +27,7 @@ Vamos por capas: Daniel intenta cada paso, Claude corrige explicando el porqué 
 - [x] Borrador v2 (`borrador-v2-parcial.png`, captura parcial): claves con subrayado continuo, ternaria Compañía–Sala–Evento con fecha y presentador en el rombo. Rombo renombrado a «realizar». Daniel pidió repetir por qué fecha y presentador van en el rombo (explicado con la tabla de realizaciones y el ejemplo de la nota de un examen). No se ven en la captura Periodista, Representante ni Dispositivo.
 - [x] Paso 2: relaciones (`borrador-v3.webp`). Daniel sacó las 5 que faltaban, todas bien: pertenece (Representante–Compañía), presenta (Dispositivo–Compañía), ubicado (Stand–Compañía), patrocina (Patrocinador–Evento), asiste (Periodista–Evento). Claves ya con subrayado continuo; Periodista sin subrayados de más.
 - [x] Borrador v4 (`borrador-v4.webp`): importe en patrocinar, Representante, fechaLanzamiento, nota de edad y rombos en infinitivo. Entidades, atributos y relaciones ✅ completos.
-- [ ] Paso 3: cardinalidades y tipo de cada relación. Ejemplo hecho por Claude: pertenecer = Representante (1:N), Compañía (1:1), tipo 1:N. Daniel hace: presentar, ubicar, patrocinar, asistir. La ternaria realizar, al final y explicada aparte.
+- [ ] Paso 3: cardinalidades y tipo de cada relación. Ejemplo hecho por Claude: pertenecer = Representante (1:N), Compañía (1:1), tipo 1:N. Daniel hace: presentar, ubicar, patrocinar, asistir. La ternaria realizar, al final y explicada aparte. Daniel pidió repasar los tipos (1:1, 1:N, N:M): explicados con la pregunta rápida de «¿muchos a cada lado?»; le toca decir primero solo el tipo de las 4.
 - [ ] Paso 4: atributos (de entidad y de relación)
 - [ ] Paso 5: repaso frase a frase del enunciado
 
