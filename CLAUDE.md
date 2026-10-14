@@ -60,6 +60,7 @@ Cada sesión empieza sin memoria: **el repositorio es la memoria**.
 
 - Al empezar un ejercicio, crea su carpeta y su `notas.md` a partir de la plantilla.
 - Al retomar un ejercicio, lee primero su `notas.md`.
+- Si Daniel dice que ha subido algo a GitHub (apuntes, enunciados), haz `git pull` antes de buscarlo. Lo que mande como captura en el chat, guárdalo en la carpeta que toque.
 - Al pausar o terminar: actualiza `notas.md` (dónde nos quedamos y qué falta), la tabla de ejercicios del README de la asignatura, y haz commit y push.
 
 ## 5. Reglas comunes

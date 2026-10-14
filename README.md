@@ -23,6 +23,22 @@ La primera vez que trabajemos una asignatura «por definir», te preguntaré có
 
 Para retomar algo a medias: «seguimos con ISO usuarios y grupos». Leo su `notas.md` y continúo donde lo dejamos.
 
+## Cómo pasarme apuntes
+
+**Recomendado: subirlos a GitHub.** Se quedan guardados en su asignatura y los encuentro en cualquier sesión, aunque sea otro día.
+
+1. Desde el ordenador, entra en [github.com/danielcaro30/ASIR](https://github.com/danielcaro30/ASIR).
+2. Abre la carpeta de la asignatura y dentro `apuntes/`.
+3. **Add file → Upload files** y arrastra los PDF (máximo 25 MB cada uno).
+4. Abajo, **Commit changes**.
+5. Dime «he subido apuntes de GBD» (o la asignatura que sea) y los leo.
+
+Con el nombre que traigan vale; si hace falta, los renombro yo con el prefijo de unidad (`UT01-…`).
+
+**Para algo puntual** (una diapositiva, una página): captura o foto en el chat. La guardo yo en `apuntes/`.
+
+No puedo entrar en la plataforma del centro ni ver los vídeos de clase. Si algo solo sale en el vídeo, mándame una captura o cuéntamelo.
+
 ## Modos de trabajo disponibles
 
 Cada asignatura puede usar uno o combinar varios:
