@@ -37,7 +37,7 @@ Vamos por capas: Daniel intenta cada paso, Claude corrige explicando el porqué 
 - [x] Borrador v7 (`borrador-v7.webp`): todo correcto. Solo falta poner entre paréntesis las (mín:máx) junto a las entidades.
 - [x] Paso 5: repaso frase a frase del enunciado: todo está en el diagrama.
 - [x] Versión final `borrador-v8-final.webp`: paréntesis puestos y posiciones reorganizadas. Solo queda ensanchar la caja de «(1:50)», que corta el paréntesis.
-- [ ] Entregar (formato por confirmar con Daniel).
+- [ ] Entregar: diagrama + **vídeo de ~5 min** explicando el proceso y justificando decisiones. Guion hecho: `guion-video.md`. Falta grabarlo.
 
 ## Dudas y avisos
 

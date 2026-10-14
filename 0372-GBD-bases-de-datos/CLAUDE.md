@@ -52,7 +52,8 @@ Trucos que funcionan con Daniel: leer el enunciado entero antes de marcar; para 
 
 ## Formato de entrega
 
-- 
+- Diagramas E/R hechos en draw.io.
+- MWC (tema 2): además, **vídeo de ~5 min** explicando el proceso seguido y justificando las decisiones. Guion en `ejercicios/2026-10-12-er-mobile-world-congress/guion-video.md`.
 
 ## Estilo
 
