@@ -3,7 +3,7 @@
 - **Asignatura:** GBD
 - **Unidad / tema:** Modelo entidad-relación
 - **Fecha de entrega:** por confirmar
-- **Estado:** 🔄 En curso
+- **Estado:** ✅ Terminado (falta poner paréntesis a las (mín:máx) y entregar)
 
 ## Qué pide
 
@@ -29,12 +29,14 @@ Vamos por capas: Daniel intenta cada paso, Claude corrige explicando el porqué 
 - [x] Borrador v2 (`borrador-v2-parcial.png`, captura parcial): claves con subrayado continuo, ternaria Compañía–Sala–Evento con fecha y presentador en el rombo. Rombo renombrado a «realizar». Daniel pidió repetir por qué fecha y presentador van en el rombo (explicado con la tabla de realizaciones y el ejemplo de la nota de un examen). No se ven en la captura Periodista, Representante ni Dispositivo.
 - [x] Paso 2: relaciones (`borrador-v3.webp`). Daniel sacó las 5 que faltaban, todas bien: pertenece (Representante–Compañía), presenta (Dispositivo–Compañía), ubicado (Stand–Compañía), patrocina (Patrocinador–Evento), asiste (Periodista–Evento). Claves ya con subrayado continuo; Periodista sin subrayados de más.
 - [x] Borrador v4 (`borrador-v4.webp`): importe en patrocinar, Representante, fechaLanzamiento, nota de edad y rombos en infinitivo. Entidades, atributos y relaciones ✅ completos.
-- [ ] Paso 3: cardinalidades y tipo de cada relación. Ejemplo hecho por Claude: pertenecer = Representante (1:N), Compañía (1:1), tipo 1:N. Daniel hace: presentar, ubicar, patrocinar, asistir. La ternaria realizar, al final y explicada aparte. Daniel pidió repasar los tipos (1:1, 1:N, N:M): explicados con la pregunta rápida de «¿muchos a cada lado?»; le toca decir primero solo el tipo de las 4.
+- [x] Paso 3: cardinalidades y tipo de cada relación. Ejemplo hecho por Claude: pertenecer = Representante (1:N), Compañía (1:1), tipo 1:N. Daniel hace: presentar, ubicar, patrocinar, asistir. La ternaria realizar, al final y explicada aparte. Daniel pidió repasar los tipos (1:1, 1:N, N:M): explicados con la pregunta rápida de «¿muchos a cada lado?»; le toca decir primero solo el tipo de las 4.
   - Tipos en `borrador-v5.webp`: pertenecer N:1 ✅, presentar N:1 ✅, patrocinar N:M ✅, asistir N:M ✅, ubicar N:1 ❌ (es N:M: una compañía varios stands y un stand varias compañías), realizar N:M ❌ (ternaria: N:M:P, explicado fijando dos entidades y preguntando por la tercera).
   - Siguiente: (mín:máx) de presentar, ubicar, patrocinar y asistir; luego los de la ternaria.
   - Cardinalidades en `borrador-v6.webp`: pertenecer, presentar y patrocinar ✅; ubicar N:M ✅ pero junto a Compañía puso 1:1 (debe ser (1:N)); asistir: junto a Periodista debe ser (1:50), no 1:N. Faltan paréntesis en todas las (mín:máx). realizar: falta una letra en cada pata (N, M, P) y subrayar fecha.
 - [ ] Paso 4: atributos (de entidad y de relación)
-- [ ] Paso 5: repaso frase a frase del enunciado
+- [x] Borrador v7 (`borrador-v7.webp`): todo correcto. Solo falta poner entre paréntesis las (mín:máx) junto a las entidades.
+- [x] Paso 5: repaso frase a frase del enunciado: todo está en el diagrama.
+- [ ] Entregar (formato por confirmar con Daniel).
 
 ## Dudas y avisos
 
