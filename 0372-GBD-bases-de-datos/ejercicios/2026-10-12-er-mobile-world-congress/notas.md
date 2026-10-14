@@ -32,6 +32,7 @@ Vamos por capas: Daniel intenta cada paso, Claude corrige explicando el porqué 
 - [ ] Paso 3: cardinalidades y tipo de cada relación. Ejemplo hecho por Claude: pertenecer = Representante (1:N), Compañía (1:1), tipo 1:N. Daniel hace: presentar, ubicar, patrocinar, asistir. La ternaria realizar, al final y explicada aparte. Daniel pidió repasar los tipos (1:1, 1:N, N:M): explicados con la pregunta rápida de «¿muchos a cada lado?»; le toca decir primero solo el tipo de las 4.
   - Tipos en `borrador-v5.webp`: pertenecer N:1 ✅, presentar N:1 ✅, patrocinar N:M ✅, asistir N:M ✅, ubicar N:1 ❌ (es N:M: una compañía varios stands y un stand varias compañías), realizar N:M ❌ (ternaria: N:M:P, explicado fijando dos entidades y preguntando por la tercera).
   - Siguiente: (mín:máx) de presentar, ubicar, patrocinar y asistir; luego los de la ternaria.
+  - Cardinalidades en `borrador-v6.webp`: pertenecer, presentar y patrocinar ✅; ubicar N:M ✅ pero junto a Compañía puso 1:1 (debe ser (1:N)); asistir: junto a Periodista debe ser (1:50), no 1:N. Faltan paréntesis en todas las (mín:máx). realizar: falta una letra en cada pata (N, M, P) y subrayar fecha.
 - [ ] Paso 4: atributos (de entidad y de relación)
 - [ ] Paso 5: repaso frase a frase del enunciado
 
