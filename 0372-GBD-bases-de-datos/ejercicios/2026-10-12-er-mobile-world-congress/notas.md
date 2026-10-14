@@ -11,7 +11,9 @@ Dibujar el diagrama E/R del enunciado (`enunciado.md`): compañías, representan
 
 ## Apuntes que hacen falta
 
-- Notación de referencia: `../../apuntes/ejemplo-clase-er-empresa-informatica.png`.
+- `../../apuntes/nf01-tema2-modelo-conceptual-diagrama-er.pdf` (teoría; ternarias en «Relaciones Ternarias»).
+- `../../apuntes/nf01-tema2-ejercicios-solucion.pdf` (soluciones de otros ejercicios; el MWC no está).
+- `../../apuntes/ejemplo-clase-er-empresa-informatica.png`.
 
 ## Progreso
 
@@ -35,6 +37,6 @@ Vamos por capas: Daniel intenta cada paso, Claude corrige explicando el porqué 
 
 ## Dudas y avisos
 
-- Para el paso de cardinalidades: ¿fecha va subrayada en «realizar» (como fechaInicio en el ejemplo de clase), para que la misma compañía pueda repetir evento y sala en otra fecha?
+- Confirmado con los apuntes: en «realizar» la fecha va **subrayada** (patrón de todas las soluciones del profesor) y la ternaria se marca con tipo N:M:P y una letra en cada pata, sin (mín:máx).
 
 - La fecha de entrega y la herramienta de dibujo están por confirmar.
