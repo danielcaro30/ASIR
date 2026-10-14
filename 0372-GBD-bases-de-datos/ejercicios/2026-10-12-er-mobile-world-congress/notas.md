@@ -3,7 +3,7 @@
 - **Asignatura:** GBD
 - **Unidad / tema:** Modelo entidad-relación
 - **Fecha de entrega:** por confirmar
-- **Estado:** ✅ Terminado (falta poner paréntesis a las (mín:máx) y entregar)
+- **Estado:** ✅ Terminado (falta entregar)
 
 ## Qué pide
 
@@ -36,6 +36,7 @@ Vamos por capas: Daniel intenta cada paso, Claude corrige explicando el porqué 
 - [ ] Paso 4: atributos (de entidad y de relación)
 - [x] Borrador v7 (`borrador-v7.webp`): todo correcto. Solo falta poner entre paréntesis las (mín:máx) junto a las entidades.
 - [x] Paso 5: repaso frase a frase del enunciado: todo está en el diagrama.
+- [x] Versión final `borrador-v8-final.webp`: paréntesis puestos y posiciones reorganizadas. Solo queda ensanchar la caja de «(1:50)», que corta el paréntesis.
 - [ ] Entregar (formato por confirmar con Daniel).
 
 ## Dudas y avisos
