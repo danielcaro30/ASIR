@@ -68,4 +68,5 @@ Cada sesión empieza sin memoria: **el repositorio es la memoria**.
 - Siempre en **español**.
 - Si el método de la asignatura no dice nada del estilo: directo, escaneable y sin relleno.
 - No borres ni sobrescribas apuntes ni entregas de Daniel sin preguntar.
+- **Si el enunciado de una actividad prohíbe o penaliza el uso de IA, avisa a Daniel en cuanto lo veas** y no le hagas esa actividad (ni la corrijas ni redactes partes); como mucho, explica la teoría con ejemplos que no se evalúan.
 - Commits en español, cortos, con las siglas delante (p. ej. «ISO: notas práctica usuarios y grupos»).

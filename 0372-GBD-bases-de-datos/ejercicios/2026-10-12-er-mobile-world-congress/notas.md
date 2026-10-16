@@ -2,7 +2,7 @@
 
 - **Asignatura:** GBD
 - **Unidad / tema:** Modelo entidad-relación
-- **Fecha de entrega:** por confirmar
+- **Fecha de entrega:** 20/10/2026 23:59 (es el ejercicio 1 de la actividad evaluable NF1)
 - **Estado:** ✅ Terminado (falta entregar)
 
 ## Qué pide
@@ -40,6 +40,8 @@ Vamos por capas: Daniel intenta cada paso, Claude corrige explicando el porqué 
 - [ ] Entregar: diagrama + **vídeo de ~5 min** explicando el proceso y justificando decisiones. Guion hecho: `guion-video.md`. Falta grabarlo.
 
 ## Dudas y avisos
+
+- ⚠️ Visto en la grabación de la VC03: el enunciado de la actividad evaluable dice «Uso de IA comporta un 0 en la EC del núcleo formativo». Avisado a Daniel el 16/10/2026.
 
 - Confirmado con los apuntes: en «realizar» la fecha va **subrayada** (patrón de todas las soluciones del profesor) y la ternaria se marca con tipo N:M:P y una letra en cada pata, sin (mín:máx).
 

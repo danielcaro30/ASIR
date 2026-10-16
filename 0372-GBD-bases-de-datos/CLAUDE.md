@@ -17,6 +17,7 @@
   - `nf01-tema2-modelo-conceptual-diagrama-er.pdf`: teoría del tema 2 (diagrama E/R), 43 diapositivas.
   - `nf01-tema2-ejercicios-solucion.pdf`: 5 enunciados con su propuesta de solución (Microhard, Explotación minera, Chucherías, Aeropuertos, Cineasta).
   - `ejemplo-clase-er-empresa-informatica.png`: diagrama E/R hecho en clase (empresa informática).
+  - `vc03-2026-10-09-modelo-logico-normalizacion.md` + `vc03-capturas/`: resumen y capturas de la VC03 (paso a tablas, normalización, evaluación del NF1).
 - Herramienta de dibujo: draw.io (la usa Daniel; también sale en los apuntes).
 
 ## Método de trabajo
@@ -53,7 +54,7 @@ Trucos que funcionan con Daniel: leer el enunciado entero antes de marcar; para 
 ## Formato de entrega
 
 - Diagramas E/R hechos en draw.io.
-- MWC (tema 2): además, **vídeo de ~5 min** explicando el proceso seguido y justificando las decisiones. Guion en `ejercicios/2026-10-12-er-mobile-world-congress/guion-video.md`.
+- Actividad evaluable NF1 (MWC = ejercicio 1, gimnasio = ejercicio 2, normalización = ejercicio 3): documento del enunciado con respuestas en **PDF** `ASIR_MP0372_NF1_Apellido1_Nombre.pdf` + **vídeo de ~5 min** sobre el diagrama E/R. Límite **20/10/2026 23:59**. No se entrega el archivo de draw.io.
 
 ## Estilo
 
@@ -62,6 +63,7 @@ Trucos que funcionan con Daniel: leer el enunciado entero antes de marcar; para 
 
 ## Qué NO hacer
 
+- **Actividades evaluables: el enunciado dice «Uso de IA comporta un 0 en la EC del núcleo formativo».** No resuelvas, no corrijas ni redactes partes de una actividad evaluable (diagramas, esquemas, respuestas, guion del vídeo). Si Daniel lo pide, recuérdaselo. Sí puedes explicar la teoría con ejemplos que no se evalúan (los de clase o los ejercicios ya resueltos).
 - No enseñar la propuesta de solución de un ejercicio antes de que Daniel lo intente: el propio profesor pide hacerlo «sin mirar la propuesta de solución». Úsalas solo para corregir y para confirmar la notación.
 
 ## Contenidos (orientativo, confirmar con los apuntes)
