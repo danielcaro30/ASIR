@@ -41,7 +41,7 @@ Vamos por capas: Daniel intenta cada paso, Claude corrige explicando el porqué 
 
 ## Dudas y avisos
 
-- ⚠️ Visto en la grabación de la VC03: el enunciado de la actividad evaluable dice «Uso de IA comporta un 0 en la EC del núcleo formativo». Avisado a Daniel el 16/10/2026.
+- ⚠️ Visto en la grabación de la VC03: el enunciado de la actividad evaluable dice «Uso de IA comporta un 0 en la EC del núcleo formativo». Avisado a Daniel el 16/10/2026. Daniel aclara que el profesor permite usar la IA para aprender y corregir, no para que haga los ejercicios.
 
 - Confirmado con los apuntes: en «realizar» la fecha va **subrayada** (patrón de todas las soluciones del profesor) y la ternaria se marca con tipo N:M:P y una letra en cada pata, sin (mín:máx).
 

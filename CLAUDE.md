@@ -68,5 +68,5 @@ Cada sesión empieza sin memoria: **el repositorio es la memoria**.
 - Siempre en **español**.
 - Si el método de la asignatura no dice nada del estilo: directo, escaneable y sin relleno.
 - No borres ni sobrescribas apuntes ni entregas de Daniel sin preguntar.
-- **Si el enunciado de una actividad prohíbe o penaliza el uso de IA, avisa a Daniel en cuanto lo veas** y no le hagas esa actividad (ni la corrijas ni redactes partes); como mucho, explica la teoría con ejemplos que no se evalúan.
+- **Si el enunciado de una actividad limita o penaliza el uso de IA, avisa a Daniel en cuanto lo veas** y ajústate a lo que permita el profesor. En GBD: la IA puede ayudar a aprender y a corregir, pero no hacer los ejercicios.
 - Commits en español, cortos, con las siglas delante (p. ej. «ISO: notas práctica usuarios y grupos»).
