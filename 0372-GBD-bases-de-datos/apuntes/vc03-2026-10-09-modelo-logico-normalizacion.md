@@ -47,7 +47,7 @@ Notas que escribió en clase para 1:1 (captura 06): Parcial–Parcial se comport
 - **Actividad práctica – RA02 (80%)**: Ejercicio 1 modelo conceptual (el del Mobile World Congress), Ejercicio 2 modelo relacional (gimnasio), Ejercicio 3 normalización.
 - **Fecha límite: 20/10/2026 23:59.** No entregar hasta tener todos los ejercicios.
 - Entrega: el documento del enunciado con las respuestas, **en PDF**, nombre `ASIR_MP0372_NF1_Apellido1_Nombre.pdf`, + **vídeo de ~5 min** explicando el proceso del diagrama E/R y justificando las decisiones. No hay que entregar el archivo de draw.io.
-- ⚠️ En la metodología del enunciado: **«Uso de IA comporta un 0 en la EC del núcleo formativo.»**
+
 
 ## Próxima VC (captura 08)
 
