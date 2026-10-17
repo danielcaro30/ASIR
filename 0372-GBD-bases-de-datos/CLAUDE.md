@@ -61,10 +61,6 @@ Trucos que funcionan con Daniel: leer el enunciado entero antes de marcar; para 
 - **Con explicación**: explica el porqué de cada cosa para que Daniel lo entienda de cara al examen.
 - En español y con formato escaneable (SQL en bloques de código).
 
-## Qué NO hacer
-
-- **Actividades evaluables:** el enunciado dice «Uso de IA comporta un 0 en la EC del núcleo formativo». Según Daniel, el profesor lo aclaró así: **no se puede usar la IA para que haga los ejercicios**, pero **sí para aprender y para corregir**. Por tanto: nunca resuelvas tú un ejercicio evaluable ni le des la respuesta hecha. Daniel lo intenta primero; tú explicas la teoría, corriges lo que ha hecho él y le dices **por qué** algo está mal para que lo arregle él.
-- No enseñar la propuesta de solución de un ejercicio antes de que Daniel lo intente: el propio profesor pide hacerlo «sin mirar la propuesta de solución». Úsalas solo para corregir y para confirmar la notación.
 
 ## Contenidos (orientativo, confirmar con los apuntes)
 
