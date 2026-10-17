@@ -17,7 +17,7 @@
 ## Progreso
 
 - [ ] 3.1 1FN (v2 en `1fn-v2.png`): motivos ✅ (pulir redacción del 3º). Clave elegida: IdOrden(PK) sin IdCliente ✅; recomendado añadir nombreProducto a la clave (una orden puede tener varios productos). Falta: tilde en «Martín», completar la nota de la errata (juntar con cantidad 4).
-- [ ] 3.2 2FN
+- [ ] 3.2 2FN: resuelto y explicado por Claude a petición de Daniel (17/10). No está en 2FN: NombreAlumno y EmailAlumno dependen solo de codAlumno; NombreCurso, ProfesorCurso y CreditosCurso solo de codCurso. Resultado: Alumno{codAlumno(PK), nombreAlumno, emailAlumno} · Curso{codCurso(PK), nombreCurso, profesorCurso, creditosCurso} · Matricula{codAlumno(PK, FK), codCurso(PK, FK)}. Falta: Daniel lo pasa a mano con las filas completas (la captura de la VC03 corta la tabla en la fila 5).
 
 ## Dudas y avisos
 
