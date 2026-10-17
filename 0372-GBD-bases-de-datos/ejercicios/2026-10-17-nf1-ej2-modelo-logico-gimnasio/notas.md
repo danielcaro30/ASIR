@@ -9,8 +9,6 @@
 
 Pasar el diagrama E/R del gimnasio (`enunciado-diagrama-er.png`) a esquema relacional con PK y FK (nomenclatura `entidadCampo`, p. ej. `cicloCodigo`), explicar cómo se transforman las relaciones 1:N, N:M y 1:1 (0:1-1:1), responder 4 verdadero/falso justificados y adjuntar el esquema (`enunciado-2-preguntas.png`).
 
-⚠️ Evaluable: Daniel lo hace; Claude solo explica y corrige.
-
 ## Apuntes que hacen falta
 
 - `../../apuntes/vc03-2026-10-09-modelo-logico-normalizacion.md` y `../../apuntes/vc03-capturas/`.
