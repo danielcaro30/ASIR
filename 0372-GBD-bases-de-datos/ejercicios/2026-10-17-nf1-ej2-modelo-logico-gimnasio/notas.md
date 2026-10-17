@@ -19,8 +19,10 @@ Pasar el diagrama E/R del gimnasio (`enunciado-diagrama-er.png`) a esquema relac
 - [x] Paso 2: atributos
 - [x] Paso 3: relaciones (borrador de Daniel revisado). Corregido: FK de la 1:1 en Ficha con UN y erratas arregladas. ✅ Esquema correcto.
 - [ ] Explicación de los pasos (1:N, N:M, 1:1)
-- [ ] Verdadero/falso
+- [ ] Verdadero/falso (borrador en `vf-borrador-v1.png`): 1 ✅ · 2 a medias (falta explicar la PK de Asiste) · 3 y 4 por hacer
 - [x] Esquema final ✅
 
 ## Dudas y avisos
+
+- Pregunta 4 del V/F: el enunciado dice «Un monitor dirige realiza una única ficha» (errata: sobra «dirige»). La relación de las fichas es «hecha por», no «dirige».
 
