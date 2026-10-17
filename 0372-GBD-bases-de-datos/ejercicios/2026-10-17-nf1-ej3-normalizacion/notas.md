@@ -16,7 +16,7 @@
 
 ## Progreso
 
-- [ ] 3.1 1FN (borrador en `1fn-borrador-v1.png`): motivos identificados ✅ (filas duplicadas del 2301, Nombre compuesto, la PK (IdOrden, IdCliente) se repite en el 2304 → falta el producto en la clave) · falta escribirlos bien y normalizar la tabla
+- [ ] 3.1 1FN: motivos escritos (v2 en el chat) ✅ duplicadas 2301 y Nombre compuesto · 3er guion: falta decir primero que la PK (IdOrden, IdCliente) se repite en el 2304; luego las 2 posibilidades (errata → juntar con cantidad 4 / productos distintos → producto en la clave) · falta normalizar la tabla
 - [ ] 3.2 2FN
 
 ## Dudas y avisos
