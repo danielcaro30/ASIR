@@ -28,7 +28,7 @@
 - [ ] Paso 2: búsqueda con palabras clave y filtro + captura
 - [ ] Paso 3: oferta en favoritos + captura
 - [ ] Parte 2: captura de la oferta
-- [ ] Parte 2: ficha redactada por Daniel y revisada (rellenas: puesto y empresa, portal, enlace y fecha, funciones; faltan el resto, y pasar las funciones al español)
+- [ ] Parte 2: ficha redactada por Daniel y revisada (Daniel pidió que se la rellenara: borrador completo dado en el chat el 17/10; falta que la adapte a sus palabras y la pase a su documento)
 - [ ] Documento PDF montado por Daniel y revisado
 
 ## Dudas y avisos

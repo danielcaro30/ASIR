@@ -19,7 +19,8 @@
 
 - **Modo:**
   - 🧭 **Guiado** en lo que se hace en plataformas (JobTeaser…): un paso cada vez; Daniel lo hace y manda captura o «hecho».
-  - 🔍 **Corrector** en lo que hay que redactar (fichas, análisis, DAFO…): lo escribe Daniel y yo lo reviso. Las actividades piden respuestas «con tus propias palabras»: no le redacto las respuestas, solo le corrijo y le señalo qué falta.
+  - 🔍 **Corrector** en lo que hay que redactar (fichas, análisis, DAFO…): lo escribe Daniel y yo lo reviso.
+  - Si Daniel pide que se lo rellene (pasó con la ficha del NF1 RA1), le doy la ficha hecha en tabla, en español sencillo y sacada solo de los datos de la oferta, y le recuerdo que la adapte a sus palabras (las actividades lo piden). Las opiniones personales («qué te ha sorprendido») se las propongo, pero se las marco para que las cambie si no las comparte.
 - **¿Seguir los apuntes al pie de la letra?:** **Sí, solo los apuntes.** Si algo no sale en los apuntes, avísalo con «⚠️ Esto no sale en los apuntes». Si hacen falta y no están en `apuntes/`, pídeselos.
 - **Qué hago yo / qué hace Daniel:** yo guío y reviso; Daniel hace todo en su cuenta, redacta y maqueta.
 
