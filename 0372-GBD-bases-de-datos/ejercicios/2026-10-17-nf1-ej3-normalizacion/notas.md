@@ -19,7 +19,7 @@
 
 - [ ] 3.1 1FN (v2 en `1fn-v2.png`): motivos ✅ (pulir redacción del 3º). Clave elegida: IdOrden(PK) sin IdCliente ✅; recomendado añadir nombreProducto a la clave (una orden puede tener varios productos). Falta: tilde en «Martín», completar la nota de la errata (juntar con cantidad 4).
 - [ ] 3.2 2FN: resuelto y explicado por Claude a petición de Daniel (17/10). No está en 2FN: NombreAlumno y EmailAlumno dependen solo de codAlumno; NombreCurso, ProfesorCurso y CreditosCurso solo de codCurso. Resultado: Alumno{codAlumno(PK), nombreAlumno, emailAlumno} · Curso{codCurso(PK), nombreCurso, profesorCurso, creditosCurso} · Matricula{codAlumno(PK, FK), codCurso(PK, FK)}. Excel completo con las 6 filas en `2fn-ejercicio-3-2.xlsx` (enunciado en `enunciado-3-2.png`). Pasado al documento (`2fn-entrega-v1.png`): tablas y descripciones ✅. Retoques: «qué alumno está en qué curso» con tildes, decir a qué tabla apunta cada FK, y comprobar que el análisis (no está en 2FN + por qué) está escrito encima.
-- [ ] 3.3 3FN: explicada la teoría (dependencia transitiva) con un ejemplo de Empleado/Departamento; Daniel tiene que inventar su propio ejemplo.
+- [ ] 3.3 3FN: Daniel usa el ejemplo Empleado/Departamento. Explicación escrita ✅ (idea correcta). Retoques: nombrar «dependencia transitiva» y la cadena dni → codDepartamento → nombreDepartamento, decir que está en 2FN, FK con nombre del profesor (departamentoCodigo), poner las tablas con datos.
 
 ## Dudas y avisos
 
