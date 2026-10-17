@@ -25,3 +25,13 @@
 
 - Columnas con el mismo nombre («Nombre» del cliente y «nombre» del producto): no es un fallo de 1FN, pero conviene renombrarlas (⚠️ no sale en los apuntes).
 - Erratas del enunciado: «Logitech» / «Logiteck», «GForce». Las dos filas del 2304 seguramente son el mismo producto: aunque el producto entre en la clave, se repetirían. Daniel decide cómo tratarlo y lo explica en la respuesta.
+
+## Revisión del Word completo (17/10/2026, `entrega-nf1-borrador-v1.docx`)
+
+Pendiente antes de entregar:
+- 3.2: falta el texto del análisis (no está en 2FN + por qué) y el «por qué ya está en 2FN». «qué alumno … qué curso» con tildes.
+- Ej. 2: N:M sin mejorar; 1:1 sin decir FK en Ficha + UN y «Estas característica»; V/F 3 sigue con «la cardinalidad que tiene sesión».
+- 3.3: faltan nombres de tabla (Empleado, Departamento), cadena dni → codDepartamento y «está en 2FN»; DNI de 8 cifras; «nombre Departamento» y «codDepartamento, Siempre».
+- 3.1: «Martín» con tilde.
+- Página 14 en blanco; actualizar el índice (sale «Uso de IA y Plagio», que no está en el documento).
+- Nombre del PDF según el enunciado: `NF1_Cabanillas_Roncero_Daniel.pdf`. Vídeo de ~5 min del E/R.
