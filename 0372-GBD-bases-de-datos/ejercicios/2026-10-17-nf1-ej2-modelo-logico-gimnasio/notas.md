@@ -18,8 +18,8 @@ Pasar el diagrama E/R del gimnasio (`enunciado-diagrama-er.png`) a esquema relac
 - [x] Paso 1: entidades → tablas con su PK
 - [x] Paso 2: atributos
 - [x] Paso 3: relaciones (borrador de Daniel revisado). Corregido: FK de la 1:1 en Ficha con UN y erratas arregladas. ✅ Esquema correcto.
-- [ ] Explicación de los pasos (1:N, N:M, 1:1)
-- [ ] Verdadero/falso (borrador en `vf-borrador-v3.png`): 1 ✅ · 2 sin cambiar: pulir justificación (mismo día, distinta hora → PK de Asiste distinta) · 3 F ✅ pero dice «la cardinalidad que tiene sesión»: es la de junto a Material · 4 ✅
+- [ ] Explicación de los pasos (borrador en `entrega-borrador-v1.png`): 1:N ✅ · N:M falta decir PK compuesta y que fecha va en esa tabla · 1:1 Parcial–Total = N:1 según la VC03 (puso 1:N), falta decir FK en Ficha con UN
+- [ ] Verdadero/falso (borrador en `entrega-borrador-v1.png`): 1, 2 y 4 ✅ · 3 sigue diciendo «la cardinalidad que tiene sesión» (es la de junto a Material)
 - [x] Esquema final ✅
 
 ## Dudas y avisos
