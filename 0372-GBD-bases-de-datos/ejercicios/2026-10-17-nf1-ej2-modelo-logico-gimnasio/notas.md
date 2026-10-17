@@ -15,9 +15,9 @@ Pasar el diagrama E/R del gimnasio (`enunciado-diagrama-er.png`) a esquema relac
 
 ## Progreso
 
-- [ ] Paso 1: entidades → tablas con su PK
-- [ ] Paso 2: atributos
-- [ ] Paso 3: relaciones según su tipo
+- [x] Paso 1: entidades → tablas con su PK
+- [x] Paso 2: atributos
+- [x] Paso 3: relaciones (borrador de Daniel revisado). Pendiente: la 1:1 «pertenece» tiene la FK en Abonado y debe ir en Ficha (lado total) con UN; erratas «activadadNombre» e «intesidad».
 - [ ] Explicación de los pasos (1:N, N:M, 1:1)
 - [ ] Verdadero/falso
 - [ ] Esquema final
