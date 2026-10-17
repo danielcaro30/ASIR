@@ -16,7 +16,7 @@
 
 ## Progreso
 
-- [ ] 3.1 1FN: motivos escritos (v2 en el chat) ✅ duplicadas 2301 y Nombre compuesto · 3er guion: falta decir primero que la PK (IdOrden, IdCliente) se repite en el 2304; luego las 2 posibilidades (errata → juntar con cantidad 4 / productos distintos → producto en la clave) · falta normalizar la tabla
+- [x] 3.1 1FN ✅ Tabla normalizada en `1fn-tabla-normalizada-v1.png`: clave (IdOrden, IdCliente, nombreProducto), 2304 juntado con cantidad 4. Retoques: tilde en «Martín»; decir en el texto qué posibilidad del 2304 se ha aplicado.
 - [ ] 3.2 2FN
 
 ## Dudas y avisos
