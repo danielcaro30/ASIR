@@ -19,7 +19,7 @@
 
 ## Progreso
 
-- [ ] Paso 1: registro en JobTeaser + captura de inicio
+- [x] Paso 1: registro en JobTeaser + captura de inicio
 - [ ] Paso 2: búsqueda con palabras clave y filtro + captura
 - [ ] Paso 3: oferta en favoritos + captura
 - [ ] Parte 2: captura de la oferta
