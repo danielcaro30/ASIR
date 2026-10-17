@@ -17,13 +17,18 @@
 
 - Ninguno en concreto: es práctica en JobTeaser y análisis de la oferta. No hay apuntes de IPE en `apuntes/`.
 
+## Oferta elegida
+
+- **Intern, Cybersecurity, Forensic & Litigation Consulting**, FTI Consulting (Madrid), prácticas de 6 meses. Publicada el 02/10/2026, consultada el 17/10/2026. En inglés. Copia en `oferta-fti-consulting.pdf`.
+- Ojo: pide grado o máster (nivel de grado o equivalente), no un CFGS.
+
 ## Progreso
 
 - [x] Paso 1: registro en JobTeaser + captura de inicio
 - [ ] Paso 2: búsqueda con palabras clave y filtro + captura
 - [ ] Paso 3: oferta en favoritos + captura
 - [ ] Parte 2: captura de la oferta
-- [ ] Parte 2: ficha redactada por Daniel y revisada
+- [ ] Parte 2: ficha redactada por Daniel y revisada (rellenas: puesto y empresa, portal, enlace y fecha, funciones; faltan el resto, y pasar las funciones al español)
 - [ ] Documento PDF montado por Daniel y revisado
 
 ## Dudas y avisos
