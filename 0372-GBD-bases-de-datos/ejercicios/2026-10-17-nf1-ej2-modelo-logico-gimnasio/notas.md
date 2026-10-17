@@ -17,10 +17,10 @@ Pasar el diagrama E/R del gimnasio (`enunciado-diagrama-er.png`) a esquema relac
 
 - [x] Paso 1: entidades → tablas con su PK
 - [x] Paso 2: atributos
-- [x] Paso 3: relaciones (borrador de Daniel revisado). Pendiente: la 1:1 «pertenece» tiene la FK en Abonado y debe ir en Ficha (lado total) con UN; erratas «activadadNombre» e «intesidad».
+- [x] Paso 3: relaciones (borrador de Daniel revisado). Corregido: FK de la 1:1 en Ficha con UN y erratas arregladas. ✅ Esquema correcto.
 - [ ] Explicación de los pasos (1:N, N:M, 1:1)
 - [ ] Verdadero/falso
-- [ ] Esquema final
+- [x] Esquema final ✅
 
 ## Dudas y avisos
 
