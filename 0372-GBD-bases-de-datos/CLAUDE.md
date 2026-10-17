@@ -51,6 +51,11 @@ Trucos que funcionan con Daniel: leer el enunciado entero antes de marcar; para 
 - Jerarquía: triángulo con `d` (disjunta) u `o` (solapada); doble línea del supertipo al triángulo = total, línea simple = parcial. Los subtipos no llevan clave (heredan la del supertipo).
 - A veces dibuja doble línea entre entidad y rombo en relaciones, pero no de forma constante: no se la exijas a Daniel.
 
+### Esquema relacional (modelo lógico)
+
+- Notación: `Tabla:{campo(PK), campo, otraTablaCampo(FK)}`; FK con nombre `entidadCampo` (p. ej. `cicloCodigo`); clave alternativa con `(UN)`.
+- **Orden de las columnas: primero la PK (o las columnas de la PK compuesta) y después el resto; nunca una FK delante de la PK.** Es la convención que sigue Daniel (no cambia el modelo, pero se lee mejor).
+
 ## Formato de entrega
 
 - Diagramas E/R hechos en draw.io.
