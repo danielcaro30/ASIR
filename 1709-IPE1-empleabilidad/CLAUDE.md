@@ -1,7 +1,7 @@
 # 1709 · Itinerario personal para la empleabilidad I (IPE I): cómo trabajar
 
-> **Método: ⏳ POR DEFINIR.**
-> Antes de hacer ningún ejercicio de esta asignatura, pregunta a Daniel cómo quiere trabajarla (sección 2 del `CLAUDE.md` raíz), rellena este archivo con sus respuestas, quita este aviso y actualiza la columna «Método» del `README.md` raíz y del README de esta carpeta.
+> **Método: 🧭 Guiado + 🔍 corrector, corto y directo, solo con los apuntes. El documento lo hace Daniel.**
+> Daniel no eligió modo (sin preferencia): se puso este por defecto. Si pide otro, cámbialo aquí y en la columna «Método» del `README.md` raíz y del README de esta carpeta.
 
 ## Datos
 
@@ -11,25 +11,32 @@
 
 ## Material que da el profesor
 
-- 
+- Actividades por núcleo formativo y RA en Word (p. ej. `IPE_I_NF1_RA1_ACTIVIDAD_PRÁCTICA.docx`), con pasos, evidencias que hay que entregar y puntos.
+- Apuntes y material complementario de la profesora (todavía no hay ninguno en `apuntes/`).
+- Herramienta: **JobTeaser**, desde el campus (Servicios → Bolsa de trabajo).
 
 ## Método de trabajo
 
-- **Modo:** <🧭 Guiado · 🧑‍🏫 Tutor · ✅ Resolución explicada · 🔍 Corrector · 📚 Estudio>
-- **¿Seguir los apuntes al pie de la letra?:** 
-- **Qué hago yo / qué hace Daniel:** 
+- **Modo:**
+  - 🧭 **Guiado** en lo que se hace en plataformas (JobTeaser…): un paso cada vez; Daniel lo hace y manda captura o «hecho».
+  - 🔍 **Corrector** en lo que hay que redactar (fichas, análisis, DAFO…): lo escribe Daniel y yo lo reviso. Las actividades piden respuestas «con tus propias palabras»: no le redacto las respuestas, solo le corrijo y le señalo qué falta.
+- **¿Seguir los apuntes al pie de la letra?:** **Sí, solo los apuntes.** Si algo no sale en los apuntes, avísalo con «⚠️ Esto no sale en los apuntes». Si hacen falta y no están en `apuntes/`, pídeselos.
+- **Qué hago yo / qué hace Daniel:** yo guío y reviso; Daniel hace todo en su cuenta, redacta y maqueta.
 
 ## Formato de entrega
 
-- 
+- **Lo maqueta Daniel.** No le genero Word ni PDF.
+- Normalmente un único PDF con fichas y capturas, con su nombre en la portada y en el nombre del archivo (según cada enunciado).
+- Antes de entregar, revisar que las capturas tapan los datos personales que no hacen falta.
 
 ## Estilo
 
-- 
+- Corto y directo: pasos y correcciones al grano, sin teoría.
 
 ## Qué NO hacer
 
-- 
+- No inventar datos de ofertas, de empresas ni de su perfil: todo sale de lo que Daniel vea y me pase.
+- No generar el documento de entrega.
 
 ## Contenidos (orientativo, confirmar con los apuntes)
 
