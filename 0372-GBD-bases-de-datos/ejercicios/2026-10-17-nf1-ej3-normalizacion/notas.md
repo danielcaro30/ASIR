@@ -19,7 +19,7 @@
 
 - [ ] 3.1 1FN (v2 en `1fn-v2.png`): motivos ✅ (pulir redacción del 3º). Clave elegida: IdOrden(PK) sin IdCliente ✅; recomendado añadir nombreProducto a la clave (una orden puede tener varios productos). Falta: tilde en «Martín», completar la nota de la errata (juntar con cantidad 4).
 - [ ] 3.2 2FN: resuelto y explicado por Claude a petición de Daniel (17/10). No está en 2FN: NombreAlumno y EmailAlumno dependen solo de codAlumno; NombreCurso, ProfesorCurso y CreditosCurso solo de codCurso. Resultado: Alumno{codAlumno(PK), nombreAlumno, emailAlumno} · Curso{codCurso(PK), nombreCurso, profesorCurso, creditosCurso} · Matricula{codAlumno(PK, FK), codCurso(PK, FK)}. Excel completo con las 6 filas en `2fn-ejercicio-3-2.xlsx` (enunciado en `enunciado-3-2.png`). Pasado al documento (`2fn-entrega-v1.png`): tablas y descripciones ✅. Retoques: «qué alumno está en qué curso» con tildes, decir a qué tabla apunta cada FK, y comprobar que el análisis (no está en 2FN + por qué) está escrito encima.
-- [ ] 3.3 3FN (`3fn-entrega-v1.png`): tablas arregladas ✅. Retoques: meter «dependencia transitiva» en la frase + cadena dni → codDepartamento → nombreDepartamento + «está en 2FN»; FK `departamentoCodigo`; DNI con 8 cifras; «..» doble punto; comprobar el primer recuadro (tabla sin 3FN con nombreDepartamento).
+- [ ] 3.3 3FN (`3fn-entrega-v2.png`): «dependencia transitiva» ya en la frase ✅. Pendiente: cadena dni → codDepartamento → nombreDepartamento, «está en 2FN», FK `departamentoCodigo`, DNI con 8 cifras, quitar la línea suelta «Dependencia transitiva».
 
 ## Dudas y avisos
 
