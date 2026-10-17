@@ -54,7 +54,7 @@ Trucos que funcionan con Daniel: leer el enunciado entero antes de marcar; para 
 ### Esquema relacional (modelo lógico)
 
 - Notación: `Tabla:{campo(PK), campo, otraTablaCampo(FK)}`; FK con nombre `entidadCampo` (p. ej. `cicloCodigo`); clave alternativa con `(UN)`.
-- **Orden de las columnas: primero la PK (o las columnas de la PK compuesta) y después el resto; nunca una FK delante de la PK.** Es la convención que sigue Daniel (no cambia el modelo, pero se lee mejor).
+- **Orden de las tablas: una tabla a la que apunta una FK tiene que estar escrita ANTES que la tabla que la usa** (p. ej. Monitor antes que Ficha). En SQL, el `CREATE TABLE` se ejecuta en orden y una FK a una tabla que aún no existe da error. Revísalo siempre en los esquemas de Daniel. Las tablas de las N:M van al final.
 
 ## Formato de entrega
 
