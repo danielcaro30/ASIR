@@ -16,7 +16,7 @@
 
 ## Progreso
 
-- [ ] 3.1 1FN: tabla normalizada en `1fn-tabla-normalizada-v1.png` (fila duplicada fuera, Nombre dividido, 2304 juntado con cantidad 4). **Corregir**: el 3er motivo es que la tabla no tiene clave (IdOrden solo se repite); Daniel tiene que elegir la clave y marcarla con (PK). Pendiente decidir si IdCliente sobra (una orden es de un solo cliente → clave (IdOrden, nombreProducto)). Tilde en «Martín» y decir qué posibilidad del 2304 se aplica.
+- [ ] 3.1 1FN (v2 en `1fn-v2.png`): motivos ✅ (pulir redacción del 3º). Clave elegida: IdOrden(PK) sin IdCliente ✅; recomendado añadir nombreProducto a la clave (una orden puede tener varios productos). Falta: tilde en «Martín», completar la nota de la errata (juntar con cantidad 4).
 - [ ] 3.2 2FN
 
 ## Dudas y avisos
