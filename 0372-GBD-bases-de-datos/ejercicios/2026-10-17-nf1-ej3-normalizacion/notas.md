@@ -16,10 +16,10 @@
 
 ## Progreso
 
-- [ ] 3.1 1FN (borrador en `1fn-borrador-v1.png`): compuesto Nombre ✅ · «registros duplicados» bien visto pero mal explicado (lo duplicado son las 2 filas del 2301, no las columnas Nombre/nombre) · falta: la PK (IdOrden, IdCliente) se repite (2301/101 y 2304/110) · falta normalizar
+- [ ] 3.1 1FN (borrador en `1fn-borrador-v1.png`): motivos identificados ✅ (filas duplicadas del 2301, Nombre compuesto, la PK (IdOrden, IdCliente) se repite en el 2304 → falta el producto en la clave) · falta escribirlos bien y normalizar la tabla
 - [ ] 3.2 2FN
 
 ## Dudas y avisos
 
 - Columnas con el mismo nombre («Nombre» del cliente y «nombre» del producto): no es un fallo de 1FN, pero conviene renombrarlas (⚠️ no sale en los apuntes).
-- Erratas del enunciado: «Logitech» / «Logiteck», «GForce».
+- Erratas del enunciado: «Logitech» / «Logiteck», «GForce». Las dos filas del 2304 seguramente son el mismo producto: aunque el producto entre en la clave, se repetirían. Daniel decide cómo tratarlo y lo explica en la respuesta.
