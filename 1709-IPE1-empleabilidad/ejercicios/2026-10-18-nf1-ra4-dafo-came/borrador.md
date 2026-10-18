@@ -4,7 +4,7 @@ Puesto de referencia (RA1): **Intern, Cybersecurity, Forensic & Litigation Consu
 
 ## 1. DAFO
 
-✅ Cerrado. La versión buena está en `dafo.html` (de ahí salen `dafo.pdf` y `dafo.png`). Si hay cambios, se editan ahí y se vuelve a renderizar.
+✅ Cerrado. Estilo tabla de Word sencilla (el primer diseño parecía hecho por IA). La versión buena está en `dafo.html` (de ahí salen `dafo.pdf` y `dafo.png`). Si hay cambios, se editan ahí y se vuelve a renderizar.
 
 Experiencias propias que lo justifican:
 - **Fortaleza** (análisis y esquematización): esquemas eléctricos en el trabajo y el diagrama E/R del Mobile World Congress en GBD.

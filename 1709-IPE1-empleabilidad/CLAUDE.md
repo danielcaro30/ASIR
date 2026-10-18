@@ -30,9 +30,16 @@
 
 - **Corto y directo**: preguntas concretas, propuestas breves, sin teoría salvo que la pida.
 
+## Aspecto de las entregas
+
+- Que parezcan hechas por Daniel en Word: tablas sencillas con bordes negros, fuente tipo Calibri (Carlito), cabeceras con un color plano y A4 vertical. **Nada de diseños muy pulidos** (tarjetas, sombras, esquinas redondeadas, iconos, recuadros destacados): Daniel dice que «se nota que lo ha hecho una IA».
+- Redacción en primera persona, con frases sencillas y naturales, como escribiría él. Sin citas en inglés ni frases rebuscadas.
+- Se generan desde un `.html` en la carpeta del ejercicio y se pasan a PDF con Playwright (Chromium).
+
 ## Qué NO hacer
 
 - Inventar experiencias, títulos, empresas o datos personales de Daniel.
+- Diseños con aspecto de plantilla de IA (ver «Aspecto de las entregas»).
 
 ## Contenidos (orientativo, confirmar con los apuntes)
 

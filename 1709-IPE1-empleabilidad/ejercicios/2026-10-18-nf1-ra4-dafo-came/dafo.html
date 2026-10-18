@@ -2,93 +2,70 @@
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<title>Mi DAFO profesional</title>
+<title>Análisis DAFO</title>
 <style>
-  @page { size: A4 landscape; margin: 0; }
-  * { box-sizing: border-box; margin: 0; padding: 0; }
+  @page { size: A4; margin: 0; }
   body {
-    width: 297mm; height: 210mm; padding: 10mm 12mm;
-    font-family: "Inter", "DejaVu Sans", sans-serif; color: #1f2933; background: #fff;
-    display: flex; flex-direction: column; gap: 4mm;
+    width: 210mm; min-height: 297mm; margin: 0; padding: 22mm 20mm;
+    box-sizing: border-box; font-family: "Carlito", "Calibri", sans-serif; font-size: 11pt; color: #000; background: #fff;
   }
-  header h1 { font-size: 21pt; font-weight: 800; color: #0b3d91; }
-  header p { font-size: 9pt; color: #52606d; margin-top: 1mm; }
-  .grid {
-    flex: 1; display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto 1fr 1fr;
-    gap: 3mm 4mm;
-  }
-  .axis { font-size: 8pt; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: #7b8794; text-align: center; }
-  .q { border-radius: 3mm; padding: 4mm 5mm; border-top: 2.2mm solid var(--c); background: var(--bg); position: relative; }
-  .q h2 { font-size: 13pt; font-weight: 800; color: var(--c); display: flex; align-items: center; gap: 3mm; margin-bottom: 2.5mm; }
-  .q h2 .l {
-    width: 9mm; height: 9mm; border-radius: 2mm; background: var(--c); color: #fff;
-    display: inline-flex; align-items: center; justify-content: center; font-size: 15pt;
-  }
-  .q h2 small { font-size: 8pt; font-weight: 600; color: #52606d; margin-left: auto; }
-  ul { list-style: none; display: flex; flex-direction: column; gap: 1.8mm; }
-  li { font-size: 8.6pt; line-height: 1.32; padding-left: 4mm; position: relative; }
-  li::before { content: ""; position: absolute; left: 0; top: 1.6mm; width: 1.6mm; height: 1.6mm; border-radius: 50%; background: var(--c); }
-  li b { font-weight: 700; }
-  .exp { display: block; margin-top: .8mm; padding: 1mm 2mm; border-left: .8mm solid var(--c); background: #ffffffb3; font-size: 8pt; font-style: italic; }
-  .pend { background: #fff3c4; font-style: normal; font-weight: 600; color: #8a6d00; }
-  .d { --c: #2f7fd1; --bg: #eef5fc; }
-  .a { --c: #0b3d91; --bg: #eaeff8; }
-  .f { --c: #1f9d6b; --bg: #ecf8f2; }
-  .o { --c: #e08a00; --bg: #fdf5e7; }
+  h1 { font-size: 16pt; margin: 0 0 3mm; }
+  p { margin: 0 0 5mm; }
+  table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+  th, td { border: 1px solid #000; padding: 2mm 3mm; vertical-align: top; }
+  th { font-size: 12pt; text-align: center; }
+  ul { margin: 0; padding-left: 5mm; }
+  li { margin-bottom: 2mm; line-height: 1.2; }
+  .f { background: #c6e0b4; }
+  .d { background: #f8cbad; }
+  .o { background: #bdd7ee; }
+  .a { background: #ffe699; }
 </style>
 </head>
 <body>
-<header>
-  <h1>Mi DAFO profesional</h1>
-  <p>Puesto de referencia (RA1): <b>Intern, Cybersecurity, Forensic &amp; Litigation Consulting</b> · FTI Consulting (Madrid) · Prácticas de 6 meses</p>
-</header>
+<h1>Análisis DAFO</h1>
+<p>Puesto de referencia (RA1): prácticas de Ciberseguridad y Forense en FTI Consulting (Madrid).</p>
 
-<div class="grid">
-  <div class="axis">Análisis interno · depende de mí</div>
-  <div class="axis">Análisis externo · depende del entorno</div>
-
-  <section class="q d">
-    <h2><span class="l">D</span>Debilidades</h2>
-    <ul>
-      <li><b>Inglés básico.</b> La oferta está en inglés y pide «strong English language skills».</li>
-      <li><b>Poca práctica en programación y scripting</b>, que el análisis forense y de malware usa a diario.
-        <span class="exp">Experiencia propia: en mi trabajo programo autómatas (PLC) y he hecho algo en C, pero por falta de tiempo y de ejercicios no he practicado lo suficiente para sentirme preparado para un puesto así.</span></li>
-      <li><b>Organización del tiempo:</b> compagino trabajo con viajes y horas extra, el ciclo y el gimnasio.</li>
-      <li><b>Sin experiencia hablando en público</b>, y el puesto incluye informes y presentaciones a clientes.</li>
-      <li><b>Formación incompleta:</b> estoy en 1.º de ASIR, sin formación específica en ciberseguridad ni forense.</li>
-    </ul>
-  </section>
-
-  <section class="q a">
-    <h2><span class="l">A</span>Amenazas</h2>
-    <ul>
-      <li><b>Competencia elevada:</b> se presentan candidatos con grado o máster en ciberseguridad.</li>
-      <li><b>Condiciones del puesto:</b> prácticas presenciales de 40 h/semana durante 6 meses en Madrid: vivo en Barcelona y tendría que dejar mi trabajo actual y mudarme.</li>
-      <li><b>Cambios tecnológicos rápidos e inteligencia artificial:</b> las herramientas y los ataques cambian deprisa, y la IA puede automatizar tareas de nivel junior.</li>
-      <li><b>Inglés alto como requisito habitual</b> en las multinacionales del sector.</li>
-    </ul>
-  </section>
-
-  <section class="q f">
-    <h2><span class="l">F</span>Fortalezas</h2>
-    <ul>
-      <li><b>Formación y experiencia en automatización industrial:</b> técnico de grado medio en Electricidad y Automatización Industrial y trabajo como técnico electricista industrial (puestas en marcha, programación de PLC y cuadros eléctricos, en obra y oficina). Resuelvo problemas sobre el terreno, bajo presión y con plazos ajustados.</li>
-      <li><b>Capacidad de análisis, lógica y esquematización.</b>
-        <span class="exp">Experiencia propia: en el trabajo interpreto y hago esquemas eléctricos, y en Gestión de bases de datos he diseñado el diagrama E/R del Mobile World Congress a partir del enunciado.</span></li>
-      <li><b>Aprendizaje autónomo:</b> por iniciativa propia hago proyectos de automatización y domótica y tengo un homelab con Linux.</li>
-      <li><b>Español y catalán nativos.</b> La oferta pide «fluency in Spanish».</li>
-    </ul>
-  </section>
-
-  <section class="q o">
-    <h2><span class="l">O</span>Oportunidades</h2>
-    <ul>
-      <li><b>Cambios normativos positivos:</b> la nueva normativa de ciberseguridad (Directiva NIS2) obliga a más empresas a protegerse y aumenta la demanda de estos perfiles.</li>
-      <li><b>Nuevo nicho de mercado, la ciberseguridad industrial (OT):</b> une la automatización industrial que ya conozco con la informática que estudio.</li>
-      <li><b>Empresas que forman a sus becarios:</b> la oferta incluye mentor, formación en el puesto y certificaciones.</li>
-      <li><b>Plataformas digitales</b> de empleo y formación (JobTeaser, LinkedIn, cursos online), y un ciclo online que me permite estudiar mientras trabajo.</li>
-    </ul>
-  </section>
-</div>
+<table>
+  <tr><th class="f">FORTALEZAS</th><th class="d">DEBILIDADES</th></tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Tengo un grado medio de Electricidad y Automatización Industrial y trabajo como técnico electricista industrial (puestas en marcha, programación de PLC y cuadros eléctricos). Estoy acostumbrado a trabajar con presión y con plazos.</li>
+        <li>Se me da bien la lógica y hacer esquemas. Por ejemplo, en el trabajo hago e interpreto esquemas eléctricos, y en Bases de datos he hecho el diagrama E/R del Mobile World Congress a partir del enunciado.</li>
+        <li>Aprendo por mi cuenta: tengo un homelab con Linux y hago proyectos de domótica y automatización.</li>
+        <li>Hablo español y catalán como lenguas nativas.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Mi nivel de inglés es básico y la oferta pide un nivel alto.</li>
+        <li>Me falta práctica programando. En el trabajo programo PLC y he hecho algo en C, pero no he tenido tiempo de practicar lo suficiente para un puesto así.</li>
+        <li>Me cuesta organizarme, porque trabajo con viajes y horas extra, estudio y voy al gimnasio.</li>
+        <li>Nunca he hablado en público, y en este puesto hay que presentar informes a clientes.</li>
+        <li>Todavía estoy en 1º de ASIR y no tengo formación en ciberseguridad.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr><th class="o">OPORTUNIDADES</th><th class="a">AMENAZAS</th></tr>
+  <tr>
+    <td>
+      <ul>
+        <li>La normativa europea de ciberseguridad (NIS2) obliga a más empresas a protegerse, así que hacen falta más técnicos.</li>
+        <li>La ciberseguridad industrial es un nicho en el que puedo juntar la automatización con la informática.</li>
+        <li>Hay empresas que forman a sus becarios; esta oferta tiene mentor y certificaciones.</li>
+        <li>Puedo buscar ofertas y formación en plataformas como JobTeaser, LinkedIn o cursos online, y como el ciclo es online puedo estudiar mientras trabajo.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Hay mucha competencia: se presentan personas con grado o máster en ciberseguridad.</li>
+        <li>Las prácticas son presenciales en Madrid, 40 horas a la semana durante 6 meses, y yo vivo en Barcelona y trabajo.</li>
+        <li>La tecnología cambia muy rápido y la IA puede hacer parte del trabajo de un perfil junior.</li>
+        <li>En las multinacionales del sector casi siempre piden un buen nivel de inglés.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 </body>
 </html>
