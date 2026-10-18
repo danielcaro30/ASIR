@@ -1,6 +1,6 @@
 # 1709 · IPE I: Itinerario personal para la empleabilidad I
 
-**Método de trabajo:** ⏳ Por definir (ver [CLAUDE.md](CLAUDE.md)).
+**Método de trabajo:** 🧭 Guiado paso a paso, corto y directo, siguiendo solo los apuntes (ver [CLAUDE.md](CLAUDE.md)).
 
 ## Carpetas
 
@@ -11,6 +11,6 @@
 
 | Ejercicio | Unidad | Entrega | Estado |
 |---|---|---|---|
-| _(ninguno todavía)_ | | | |
+| [NF1 RA4: DAFO profesional y plan CAME](ejercicios/2026-10-18-nf1-ra4-dafo-came/) | NF1 · RA4 | 22/10/2026 | 🔄 En curso |
 
 <!-- Estado: ⏳ Sin empezar · 🔄 En curso · ✅ Terminado · 📤 Entregado -->
