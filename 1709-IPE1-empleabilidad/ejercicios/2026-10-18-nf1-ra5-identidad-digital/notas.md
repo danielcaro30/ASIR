@@ -21,11 +21,16 @@ Enunciado: `enunciado.pdf`. Individual, unos 90 min.
 - `apuntes/tema3-identidad-digital.pdf`: huella digital (activa y pasiva), identidad digital (activa, pasiva, percibida, reputación), impacto en la empleabilidad, marca personal, claves (auditar la huella, LinkedIn, contenido, coherencia), networking y LinkedIn.
 - Para la parte 4: el DAFO, el CAME y el compromiso del RA4 (`../2026-10-18-nf1-ra4-dafo-came/`).
 
+## Datos de Daniel (los que ha dado él)
+
+- Al buscar su nombre sale sobre todo información como **deportista (jugador de hockey)** y su **perfil de LinkedIn** (trabajo en automatización industrial y TI). Lo primero que aparece es lo del deporte.
+- Acción que propone: añadir su página web profesional, mejorar el SEO y cambiar cosas de LinkedIn. Pendiente: saber si la web ya existe.
+
 ## Progreso
 
 - [x] Guardar enunciado y apuntes del tema 3
-- [ ] Parte 1: Daniel busca su nombre en incógnito, hace la captura (tapando datos) y me dice qué sale
-- [ ] Parte 1: ficha de identidad digital
+- [x] Parte 1: Daniel ha rellenado la ficha en el Word; le he corregido erratas y concreción (ver «Datos de Daniel»)
+- [ ] Parte 1: confirmar que tiene la captura de la búsqueda con los datos tapados
 - [ ] Parte 2: Daniel lanza el prompt en una IA y hace la captura
 - [ ] Parte 3: ficha de valoración
 - [ ] Parte 4: plan de desarrollo individual
