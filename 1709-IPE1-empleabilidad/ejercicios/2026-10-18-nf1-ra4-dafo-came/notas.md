@@ -37,10 +37,12 @@ Enunciado: `enunciado.pdf`. Individual, 60-75 min. Tomando como referencia **el 
 - [x] Preguntas a Daniel para sacar F, D, O, A
 - [x] Primer borrador del DAFO (`borrador.md`) y versión visual (`dafo.html` → `dafo.pdf` / `dafo.png`, renderizado con Playwright)
 - [x] DAFO cerrado con las respuestas de Daniel (PLC y algo de C, grado medio, vive en Barcelona)
-- [ ] Plan CAME: propuesta en `borrador.md`, falta que Daniel la valide
-- [ ] Compromiso profesional
+- [x] DAFO en estilo Word sencillo y corto; imagen solo de la tabla en `dafo-tabla.png`
+- [x] Plan CAME: lo rellena Daniel en el Word del enunciado
+- [ ] Compromiso profesional: propuesta (Python) en `borrador.md`, falta que Daniel la valide
 - [ ] Montar el PDF con portada y nombre
 
 ## Dudas y avisos
 
+- Daniel trabaja sobre un Word del enunciado (seguramente convertido del PDF): una tabla no le dejaba editar.
 - El enunciado menciona «capturas solicitadas», pero ningún apartado pide capturas concretas.

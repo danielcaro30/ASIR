@@ -10,7 +10,9 @@ Experiencias propias que lo justifican:
 - **Fortaleza** (análisis y esquematización): esquemas eléctricos en el trabajo y el diagrama E/R del Mobile World Congress en GBD.
 - **Debilidad** (poca práctica en programación): programa PLC en el trabajo y ha hecho algo en C, pero no ha practicado lo suficiente por falta de tiempo y de ejercicios.
 
-## 2. Plan CAME (propuesta, pendiente de que Daniel la valide)
+## 2. Plan CAME
+
+✅ Daniel lo ha rellenado él en el Word (partiendo de esta propuesta).
 
 | Elemento del CAME | Acción personal |
 |---|---|
@@ -19,6 +21,12 @@ Experiencias propias que lo justifican:
 | **Mantener** una fortaleza: aprendo por mi cuenta | Seguir con el homelab y añadirle cosas de seguridad (firewall, logs). |
 | **Explotar** una oportunidad: ciberseguridad industrial | Hacer un curso online gratis de ciberseguridad y seguir a gente del sector industrial en LinkedIn. |
 
-## 3. Compromiso profesional
+## 3. Compromiso profesional (propuesta, pendiente de que Daniel la valide)
 
-_(pendiente)_
+| Elemento | Respuesta |
+|---|---|
+| Acción del CAME seleccionada | Corregir una debilidad: practicar programación con Python. |
+| ¿Qué voy a hacer? | Aprender lo básico de Python y hacer 5 scripts para mi homelab. |
+| ¿Cómo lo voy a realizar? | Dos ratos de 45 minutos a la semana, con un curso gratis online y probando los scripts en el homelab. |
+| ¿Qué evidencia permitirá comprobarlo? | Un repositorio en GitHub con los 5 scripts y las fechas en que los subo. |
+| Fecha aproximada de finalización | 18 de enero de 2027. |
