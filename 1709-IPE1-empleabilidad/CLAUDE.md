@@ -14,6 +14,7 @@
 - Actividades en PDF por núcleo formativo y RA (p. ej. «Actividad Núcleo Formativo 1 RA4»), con puntuación por apartado y evidencias a entregar.
 - Apuntes (presentaciones en PDF) en `apuntes/`:
   - `tema2-busqueda-activa-de-empleo.pdf`: búsqueda activa de empleo, competencias digitales, DAFO y CAME de la marca personal, Maslow, aprendizaje continuo, Europa.
+  - `tema3-identidad-digital.pdf`: huella e identidad digital, impacto en la empleabilidad, marca personal, networking y LinkedIn.
 - Las actividades se encadenan: p. ej. el RA4 parte del puesto investigado en el RA1. Pide siempre la entrega anterior si hace falta.
 
 ## Método de trabajo

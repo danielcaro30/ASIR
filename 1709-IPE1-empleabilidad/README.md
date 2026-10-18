@@ -12,5 +12,6 @@
 | Ejercicio | Unidad | Entrega | Estado |
 |---|---|---|---|
 | [NF1 RA4: DAFO profesional y plan CAME](ejercicios/2026-10-18-nf1-ra4-dafo-came/) | NF1 · RA4 | 22/10/2026 | 🔄 En curso |
+| [NF1 RA5: identidad digital y plan de desarrollo](ejercicios/2026-10-18-nf1-ra5-identidad-digital/) | NF1 · RA5 | 22/10/2026 | 🔄 En curso |
 
 <!-- Estado: ⏳ Sin empezar · 🔄 En curso · ✅ Terminado · 📤 Entregado -->
