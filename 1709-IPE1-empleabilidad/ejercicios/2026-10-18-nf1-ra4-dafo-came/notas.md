@@ -17,15 +17,25 @@ Enunciado: `enunciado.pdf`. Individual, 60-75 min. Tomando como referencia **el 
 
 ## Apuntes que hacen falta
 
-- Apuntes de la profesora sobre DAFO/CAME (todavía no están en `apuntes/`).
-- Entrega de la actividad del **RA1** (oferta/puesto investigado): Daniel la va a pasar.
+- `apuntes/tema2-busqueda-activa-de-empleo.pdf`: págs. 11-12 (DAFO de marca personal: F/D internas, O/A externas) y la sección del CAME (Corregir, Afrontar, Mantener, Explotar).
+- `oferta-ra1-fti-consulting.pdf`: puesto del RA1. Prácticas de ciberseguridad y forense en FTI Consulting (Madrid), 6 meses a 40 h/semana. Piden grado o máster, buen inglés y español.
+
+## Datos de Daniel (los que ha dado él)
+
+- Trabajo: técnico electricista industrial (puestas en marcha, programación, cuadros eléctricos; en obra y en oficina). Viaja mucho y hace horas extra.
+- Estudios: ESO y ciclo de electricidad y automatización industrial. Ahora, 1º ASIR online.
+- Idiomas: español y catalán nativos, inglés básico.
+- Se le da bien: esquematizar, las bases de datos, la lógica. Le cuesta: aprender lenguajes de programación nuevos.
+- Por su cuenta: automatización, domótica, Linux, homelab.
+- A mejorar: organizarse y hablar en público (nunca lo ha hecho). Le falta tiempo entre trabajo, estudios y gimnasio.
 
 ## Progreso
 
 - [x] Guardar enunciado y definir método de la asignatura
-- [ ] Recibir entrega del RA1 y apuntes de DAFO/CAME
-- [ ] Preguntas a Daniel para sacar F, D, O, A (con las 2 experiencias propias)
-- [ ] Redactar DAFO
+- [x] Recibir entrega del RA1 y apuntes de DAFO/CAME
+- [x] Preguntas a Daniel para sacar F, D, O, A
+- [x] Primer borrador del DAFO (`borrador.md`)
+- [ ] Daniel valida el DAFO y completa los `[?]` (experiencia que justifique la debilidad de programación, dónde vive)
 - [ ] Plan CAME
 - [ ] Compromiso profesional
 - [ ] Montar el PDF con portada y nombre
