@@ -22,8 +22,9 @@ Enunciado: `enunciado.pdf`. Individual, 60-75 min. Tomando como referencia **el 
 
 ## Datos de Daniel (los que ha dado él)
 
-- Trabajo: técnico electricista industrial (puestas en marcha, programación, cuadros eléctricos; en obra y en oficina). Viaja mucho y hace horas extra.
-- Estudios: ESO y ciclo de electricidad y automatización industrial. Ahora, 1º ASIR online.
+- Trabajo: técnico electricista industrial (puestas en marcha, programación, cuadros eléctricos; en obra y en oficina). Viaja mucho y hace horas extra. «Programación» = autómatas (PLC); también ha hecho algo en C, pero dice que le falta práctica más que dificultad.
+- Vive en Barcelona.
+- Estudios: ESO y CFGM de Electricidad y Automatización Industrial. Ahora, 1º ASIR online.
 - Idiomas: español y catalán nativos, inglés básico.
 - Se le da bien: esquematizar, las bases de datos, la lógica. Le cuesta: aprender lenguajes de programación nuevos.
 - Por su cuenta: automatización, domótica, Linux, homelab.
@@ -35,8 +36,8 @@ Enunciado: `enunciado.pdf`. Individual, 60-75 min. Tomando como referencia **el 
 - [x] Recibir entrega del RA1 y apuntes de DAFO/CAME
 - [x] Preguntas a Daniel para sacar F, D, O, A
 - [x] Primer borrador del DAFO (`borrador.md`) y versión visual (`dafo.html` → `dafo.pdf` / `dafo.png`, renderizado con Playwright)
-- [ ] Daniel valida el DAFO y completa los `[?]` (experiencia que justifique la debilidad de programación, dónde vive)
-- [ ] Plan CAME
+- [x] DAFO cerrado con las respuestas de Daniel (PLC y algo de C, grado medio, vive en Barcelona)
+- [ ] Plan CAME: propuesta en `borrador.md`, falta que Daniel la valide
 - [ ] Compromiso profesional
 - [ ] Montar el PDF con portada y nombre
 
