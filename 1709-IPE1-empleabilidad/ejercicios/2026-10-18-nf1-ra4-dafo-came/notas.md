@@ -34,7 +34,7 @@ Enunciado: `enunciado.pdf`. Individual, 60-75 min. Tomando como referencia **el 
 - [x] Guardar enunciado y definir método de la asignatura
 - [x] Recibir entrega del RA1 y apuntes de DAFO/CAME
 - [x] Preguntas a Daniel para sacar F, D, O, A
-- [x] Primer borrador del DAFO (`borrador.md`)
+- [x] Primer borrador del DAFO (`borrador.md`) y versión visual (`dafo.html` → `dafo.pdf` / `dafo.png`, renderizado con Playwright)
 - [ ] Daniel valida el DAFO y completa los `[?]` (experiencia que justifique la debilidad de programación, dónde vive)
 - [ ] Plan CAME
 - [ ] Compromiso profesional
