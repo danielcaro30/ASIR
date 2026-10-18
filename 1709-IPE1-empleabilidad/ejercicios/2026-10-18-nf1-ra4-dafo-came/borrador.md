@@ -14,10 +14,10 @@ Experiencias propias que lo justifican:
 
 | Elemento del CAME | Acción personal |
 |---|---|
-| **Corregir** una debilidad: poca práctica en programación | Practicar Python dos veces por semana, en sesiones de 45 min, haciendo scripts útiles para mi homelab (revisar logs, hacer copias de seguridad, avisar de accesos) y subirlos a GitHub. |
-| **Afrontar** una amenaza: prácticas presenciales en Madrid | Buscar en JobTeaser y LinkedIn ofertas parecidas en Barcelona o en remoto, guardar alertas de empleo y orientar las prácticas del ciclo hacia ciberseguridad. |
-| **Mantener** una fortaleza: aprendizaje autónomo y homelab | Seguir ampliando el homelab, esta vez orientado a la seguridad (firewall, registro de logs, una máquina para practicar), y documentar cada montaje. |
-| **Explotar** una oportunidad: el nicho de la ciberseguridad industrial (OT) | Hacer un curso online gratuito de introducción a la ciberseguridad y seguir en LinkedIn a grupos y profesionales de ciberseguridad industrial para unir mi experiencia con PLC y lo que aprendo en ASIR. |
+| **Corregir** una debilidad: me falta práctica programando | Practicar Python dos ratos a la semana con scripts para mi homelab y subirlos a GitHub. |
+| **Afrontar** una amenaza: las prácticas son en Madrid | Buscar ofertas parecidas en Barcelona o en remoto, con alertas en JobTeaser y LinkedIn. |
+| **Mantener** una fortaleza: aprendo por mi cuenta | Seguir con el homelab y añadirle cosas de seguridad (firewall, logs). |
+| **Explotar** una oportunidad: ciberseguridad industrial | Hacer un curso online gratis de ciberseguridad y seguir a gente del sector industrial en LinkedIn. |
 
 ## 3. Compromiso profesional
 

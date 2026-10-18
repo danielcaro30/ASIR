@@ -33,7 +33,7 @@
 ## Aspecto de las entregas
 
 - Que parezcan hechas por Daniel en Word: tablas sencillas con bordes negros, fuente tipo Calibri (Carlito), cabeceras con un color plano y A4 vertical. **Nada de diseños muy pulidos** (tarjetas, sombras, esquinas redondeadas, iconos, recuadros destacados): Daniel dice que «se nota que lo ha hecho una IA».
-- Redacción en primera persona, con frases sencillas y naturales, como escribiría él. Sin citas en inglés ni frases rebuscadas.
+- Redacción en primera persona, **corta y simple**, como habla él: frases de una o dos líneas, lo mínimo que pida el enunciado (p. ej. 3 puntos por apartado si pide 3) y sin rellenar. Sin citas en inglés ni frases rebuscadas.
 - Se generan desde un `.html` en la carpeta del ejercicio y se pasan a PDF con Playwright (Chromium).
 
 ## Qué NO hacer
