@@ -32,8 +32,8 @@ Enunciado: `enunciado.pdf`. Individual, unos 90 min.
 - [x] Parte 1: Daniel ha rellenado la ficha en el Word; le he corregido erratas y concreción (ver «Datos de Daniel»)
 - [ ] Parte 1: confirmar que tiene la captura de la búsqueda con los datos tapados
 - [x] Parte 2: hecho con **Gemini** (`captura-ia-gemini.png`). Recomendaciones: 1) homelab documentado en GitHub, 2) publicar write-ups (1-2 al mes), 3) optimizar LinkedIn y networking (titular, destacados, certificaciones, meetups).
-- [ ] Parte 3: ficha de valoración (propuesta: más útil la 1, descartar la 2; falta que Daniel lo confirme)
-- [ ] Parte 4: plan de desarrollo individual
+- [x] Parte 3: ficha de valoración validada por Daniel (más útil: homelab en GitHub; descartada: write-ups). En `borrador.md`
+- [ ] Parte 4: propuesta en `borrador.md`, falta que Daniel valide el objetivo y el resto
 - [ ] Montar el PDF con portada y nombre
 
 ## Dudas y avisos
