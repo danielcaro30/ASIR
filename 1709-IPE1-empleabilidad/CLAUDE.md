@@ -1,7 +1,7 @@
 # 1709 · Itinerario personal para la empleabilidad I (IPE I): cómo trabajar
 
-> **Método: ⏳ POR DEFINIR.**
-> Antes de hacer ningún ejercicio de esta asignatura, pregunta a Daniel cómo quiere trabajarla (sección 2 del `CLAUDE.md` raíz), rellena este archivo con sus respuestas, quita este aviso y actualiza la columna «Método» del `README.md` raíz y del README de esta carpeta.
+> **Método: ✅ Resolución explicada, corta y directa.**
+> Daniel no marcó preferencias (2026-10-18), así que es el método por defecto. Si dice otra cosa, cámbialo aquí y en los README.
 
 ## Datos
 
@@ -15,21 +15,23 @@
 
 ## Método de trabajo
 
-- **Modo:** <🧭 Guiado · 🧑‍🏫 Tutor · ✅ Resolución explicada · 🔍 Corrector · 📚 Estudio>
-- **¿Seguir los apuntes al pie de la letra?:** 
-- **Qué hago yo / qué hace Daniel:** 
+- **Modo:** ✅ Resolución explicada.
+- **¿Seguir los apuntes al pie de la letra?:** No hace falta; se pueden usar ejemplos y recursos reales del sector. Si Daniel pasa apuntes de Yolanda, usar su vocabulario.
+- **Qué hago yo / qué hace Daniel:** Yo redacto la respuesta completa, lista para entregar, con una nota breve de por qué. Daniel la revisa, la adapta a su caso y la entrega.
 
 ## Formato de entrega
 
-- 
+- Varía según la tarea. Por defecto, texto en `entrega.md` dentro de la carpeta del ejercicio, fácil de copiar a la plataforma o a un Word.
 
 ## Estilo
 
-- 
+- Corto, directo y concreto: acciones con herramientas, plazos y ejemplos reales, no generalidades.
+- Adaptado al perfil de Daniel (1º ASIR): sistemas, redes, ciberseguridad y nube.
 
 ## Qué NO hacer
 
-- 
+- Respuestas genéricas de «mejora tu LinkedIn» sin pasos concretos.
+- Inventar datos personales de Daniel (experiencia, notas, certificados que no tiene).
 
 ## Contenidos (orientativo, confirmar con los apuntes)
 

@@ -1,6 +1,6 @@
 # 1709 · IPE I: Itinerario personal para la empleabilidad I
 
-**Método de trabajo:** ⏳ Por definir (ver [CLAUDE.md](CLAUDE.md)).
+**Método de trabajo:** ✅ Resolución explicada, corta y directa (ver [CLAUDE.md](CLAUDE.md)).
 
 ## Carpetas
 
@@ -11,6 +11,6 @@
 
 | Ejercicio | Unidad | Entrega | Estado |
 |---|---|---|---|
-| _(ninguno todavía)_ | | | |
+| [Identidad digital profesional: tres acciones](ejercicios/2026-10-18-identidad-digital-profesional/) | Búsqueda de empleo / marca personal | — | ✅ Terminado |
 
 <!-- Estado: ⏳ Sin empezar · 🔄 En curso · ✅ Terminado · 📤 Entregado -->
