@@ -9,7 +9,7 @@ Ejercicios del Grado Superior de **Administración de Sistemas Informáticos en 
 | Código | Siglas | Asignatura | Docente | Método de trabajo |
 |---|---|---|---|---|
 | 0369 | ISO | [Implantación de sistemas operativos](0369-ISO-sistemas-operativos/) | Xavier Castejón Domenech | 🧭 Guiado paso a paso en la VM, siguiendo los apuntes y con capturas |
-| 0371 | FH | [Fundamentos de hardware](0371-FH-hardware/) | Marina Iriarte Fuster | ⏳ Por definir |
+| 0371 | FH | [Fundamentos de hardware](0371-FH-hardware/) | Marina Iriarte Fuster | 🧑‍🏫 Te explico, lo haces y lo corrijo (o lo hago yo si me lo pides), siguiendo solo los apuntes |
 | 0372 | GBD | [Gestión de bases de datos](0372-GBD-bases-de-datos/) | David Porti Pujal | 🧭 Guiado paso a paso, con explicación, siguiendo solo los apuntes |
 | 1709 | IPE I | [Itinerario personal para la empleabilidad I](1709-IPE1-empleabilidad/) | Yolanda Serrano Moyano | ⏳ Por definir |
 

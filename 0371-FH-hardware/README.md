@@ -1,6 +1,6 @@
 # 0371 · FH: Fundamentos de hardware
 
-**Método de trabajo:** ⏳ Por definir (ver [CLAUDE.md](CLAUDE.md)).
+**Método de trabajo:** 🧑‍🏫 Te explico, lo haces y lo corrijo; si me lo pides, lo hago yo. Solo los apuntes (ver [CLAUDE.md](CLAUDE.md)).
 
 ## Carpetas
 
@@ -11,6 +11,6 @@
 
 | Ejercicio | Unidad | Entrega | Estado |
 |---|---|---|---|
-| _(ninguno todavía)_ | | | |
+| [Actividad NF1: arquitectura de sistemas](ejercicios/2026-10-25-nf1-actividad-arquitectura-sistemas/) | NF1 | 20/10/2026 | 🔄 En curso |
 
 <!-- Estado: ⏳ Sin empezar · 🔄 En curso · ✅ Terminado · 📤 Entregado -->
