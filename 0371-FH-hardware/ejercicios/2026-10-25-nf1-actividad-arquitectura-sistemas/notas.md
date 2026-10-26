@@ -18,8 +18,8 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 
 ## Progreso
 
-- [ ] 9.1 Comando para ver la caché (explicado, esperando captura de Daniel)
-- [ ] 9.2 Latencia, velocidad y ancho de banda de 3 memorias
+- [x] 9.1 Comando: `Get-CimInstance Win32_Processor | Select-Object Name, L2CacheSize, L3CacheSize` (Daniel dice hecho; falta que pase la captura)
+- [ ] 9.2 Latencia, velocidad y ancho de banda de 3 memorias (explicado con ejemplo DDR4-3000 CL15, esperando cálculos de Daniel)
 - [ ] 9.3 DDR4-3600 CL18 vs DDR5-5200 CL40
 - [ ] 9.4 Elegir 32 GB
 - [ ] 9.5 8+8+16 GB y dual channel
