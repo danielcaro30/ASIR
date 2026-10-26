@@ -21,7 +21,7 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - [x] 9.1 Comando: `Get-CimInstance Win32_Processor | Select-Object Name, L2CacheSize, L3CacheSize` (Daniel dice hecho; falta que pase la captura)
 - [x] 9.2 Latencia, velocidad y ancho de banda de 3 memorias
 - [x] 9.3 DDR4-3600 CL18 vs DDR5-5200 CL40
-- [ ] 9.4 Elegir 32 GB
+- [x] 9.4 Elegir 32 GB
 - [ ] 9.5 8+8+16 GB y dual channel
 - [ ] 9.6 DDR4 3200/2933/2666
 - [ ] 10.1-10.6 CPU-Z/HWiNFO, CrystalDiskInfo, benchmark (capturas)
@@ -36,6 +36,7 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - **9.2.2** DDR5-5200 CL40: frecuencia real 2600 MHz · latencia (40/2600)×1000 = 15,38 ns · 41 600×10⁶ B/s = 40 625 000 KB/s = 39 672,85 MB/s ✅ (dual channel ×2 = 79 345,70 MB/s). Ojo: en su línea de MB/s escribió 28.125.000 en vez de 40.625.000 (errata, resultado bien).
 - **9.2.3** DDR4-2666 CL19 (1 módulo, sin dual channel): frecuencia real 1333 MHz · latencia (19/1333)×1000 = 14,25 ns · 21 328×10⁶ B/s = 20 828 125 KB/s = 20 339,97 MB/s ✅ (él puso 20 339,96: redondeo)
 - **9.3** Elige DDR5-5200 CL40: ~44 % más ancho de banda (39 672,85 vs 27 465,82 MB/s) a cambio de ~5 ns más de latencia (15,38 vs 10); DDR5 = más transferencia, menos consumo (diap. 39 y 43); depende de que la placa admita DDR5 ✅
+- **9.4** Elige DDR4-3200 CL16: latencia (16/1600)×1000 = 10 ns vs (16/1333)×1000 = 12,00 ns; ancho de banda 24 414,06 vs 20 339,97 MB/s. Mismo CL, más frecuencia → ciclo más corto → menos latencia y más ancho de banda ✅ (al principio olvidó dividir la frecuencia entre 2)
 
 ## Dudas y avisos
 
