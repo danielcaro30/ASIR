@@ -30,6 +30,10 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - [ ] 13 Averías
 - [ ] Generar el PDF de entrega
 
+## Respuestas ya corregidas
+
+- **9.2.1** DDR4-3600 CL18: frecuencia real 3600/2 = 1800 MHz · latencia (18/1800)×1000 = 10 ns · ancho de banda 8 B × 3600×10⁶ = 28 800×10⁶ B/s = 28 125 000 KB/s = 27 465,82 MB/s ✅ (en dual channel, ×2 = 54 931,64 MB/s)
+
 ## Dudas y avisos
 
 - El enunciado de 9.3 cita «1.2.1» y «1.2.2», pero se refiere a 9.2.1 y 9.2.2 (errata).
