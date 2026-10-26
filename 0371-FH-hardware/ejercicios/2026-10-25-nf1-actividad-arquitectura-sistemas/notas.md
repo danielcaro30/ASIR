@@ -33,6 +33,7 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 ## Respuestas ya corregidas
 
 - **9.2.1** DDR4-3600 CL18: frecuencia real 3600/2 = 1800 MHz · latencia (18/1800)×1000 = 10 ns · ancho de banda 8 B × 3600×10⁶ = 28 800×10⁶ B/s = 28 125 000 KB/s = 27 465,82 MB/s ✅ (en dual channel, ×2 = 54 931,64 MB/s)
+- **9.2.2** DDR5-5200 CL40: frecuencia real 2600 MHz · latencia (40/2600)×1000 = 15,38 ns · 41 600×10⁶ B/s = 40 625 000 KB/s = 39 672,85 MB/s ✅ (dual channel ×2 = 79 345,70 MB/s). Ojo: en su línea de MB/s escribió 28.125.000 en vez de 40.625.000 (errata, resultado bien).
 
 ## Dudas y avisos
 
