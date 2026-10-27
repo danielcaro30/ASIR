@@ -28,7 +28,8 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - [x] 10.2 CrystalDiskInfo: captura en `capturas/10.2-crystaldiskinfo.png` (texto redactado por Claude a petición de Daniel, en «Respuestas»)
 - [x] 10.3 Geekbench 6 (por defecto, Daniel no eligió otra)
 - [x] 10.4 **Geekbench 6.7.1**: **Single 2436 / Multi 11741**. Captura `capturas/10.4-geekbench6-resultado.png` (falta otra con el nombre de la CPU). Antes pasó Geekbench 7.1.0 (2063 / 11874): descartado porque no hay datos de referencia de GB7 para su CPU.
-- [ ] 10.5-10.6 Captura de browser.geekbench.com/processors/intel-core-i7-13620h y comparar (referencias externas GB6: ~2500-2570 single, ~11700 multi)
+- [x] 10.5 Captura de la búsqueda GB6 «i7-13620H» (`capturas/10.5-geekbench6-busqueda-i7-13620h.png`). La página del procesador salía 0/0. 8 resultados → mediana **single 2550** ((2528+2572)/2), **multi 12150,5** ((11348+12953)/2)
+- [ ] 10.6 Comparar: 2436 vs 2550 (≈ −4,5 %), 11741 vs 12150 (≈ −3,4 %) → casi igual, algo por debajo (esperando texto de Daniel)
 - [ ] 11.1 BIOS/UEFI (foto)
 - [ ] 12 Diseña tu equipo (550 €)
 - [ ] 13 Averías
