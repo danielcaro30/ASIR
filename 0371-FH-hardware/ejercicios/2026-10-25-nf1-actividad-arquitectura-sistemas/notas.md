@@ -25,8 +25,8 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - [x] 9.5 8+8+16 GB y dual channel
 - [x] 9.6 DDR4 3200/2933/2666
 - [x] 10.1 CPU-Z: capturas en `capturas/10.1-*.png`
-- [x] 10.2 CrystalDiskInfo: captura en `capturas/10.2-crystaldiskinfo.png` (falta texto de Daniel)
-- [ ] 10.3-10.6 Benchmark (capturas)
+- [x] 10.2 CrystalDiskInfo: captura en `capturas/10.2-crystaldiskinfo.png` (texto redactado por Claude a petición de Daniel, en «Respuestas»)
+- [ ] 10.3-10.6 Benchmark (capturas) — explicado 10.3, esperando elección de Daniel
 - [ ] 11.1 BIOS/UEFI (foto)
 - [ ] 12 Diseña tu equipo (550 €)
 - [ ] 13 Averías
@@ -41,6 +41,7 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - **9.4** Elige DDR4-3200 CL16: latencia (16/1600)×1000 = 10 ns vs (16/1333)×1000 = 12,00 ns; ancho de banda 24 414,06 vs 20 339,97 MB/s. Mismo CL, más frecuencia → ciclo más corto → menos latencia y más ancho de banda ✅ (al principio olvidó dividir la frecuencia entre 2)
 - **9.5** 8+8+16 = 32 GB. Dual channel: sí si 8+8 en un canal y 16 en el otro (16 GB por canal, todos a 3200) ⚠️ no sale en los apuntes; versión apuntes: módulos distintos → no es dual channel puro
 - **9.6** Frecuencias DDR4 (MHz) que admite la placa; máx. 3200; una memoria más rápida funcionaría a 3200 como mucho
+- **10.2** (redactado por Claude): «El disco WD PC SN560 de 1 TB (SSD NVMe, PCIe 4.0 x4) tiene un estado de salud «Bueno» (98 %): está sano y solo ha gastado un 2 % de su vida útil (atributo 05). La temperatura es de 42 °C, normal para un SSD. No hay avisos críticos (01 = 0), ni errores de integridad (0E = 0), y conserva el 100 % de las celdas de reserva (03), así que no hay que hacer nada; solo seguir con las copias de seguridad habituales.»
 
 ## Equipo de Daniel (CPU-Z, 10.1)
 
