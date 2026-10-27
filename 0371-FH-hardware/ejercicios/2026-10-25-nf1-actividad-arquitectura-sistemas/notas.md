@@ -31,7 +31,7 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - [x] 10.5 Captura de la búsqueda GB6 «i7-13620H» (`capturas/10.5-geekbench6-busqueda-i7-13620h.png`). La página del procesador salía 0/0. 8 resultados → mediana **single 2550** ((2528+2572)/2), **multi 12150,5** ((11348+12953)/2)
 - [x] 10.6 Comparar: 2436 vs 2550 (≈ −4,5 %), 11741 vs 12150 (≈ −3,4 %) → prácticamente igual (redactado por Claude)
 - [ ] Capturas pendientes de Daniel: 9.1 (PowerShell caché) y nombre de la CPU en el resultado de Geekbench 6
-- [ ] 11.1 En la VM de ISO (VMware). Captura 1 UEFI Boot Manager ✅ (`capturas/11.1-vm-uefi-boot-manager.png`); faltan Settings → Options → Advanced (Secure Boot) y Hardware (TPM)
+- [ ] 11.1 En la VM de ISO (VMware). Captura 1 UEFI Boot Manager ✅ (`capturas/11.1-vm-uefi-boot-manager.png`); captura 2 Advanced ✅: firmware UEFI, **Secure Boot desactivado**, aviso «Firmware cannot be changed while TPM device exists» (hay TPM), Access Control Encrypted; falta captura 3 Hardware (TPM)
 - [ ] 12 Diseña tu equipo (550 €)
 - [ ] 13 Averías
 - [ ] Generar el PDF de entrega
