@@ -33,7 +33,8 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - [ ] Capturas pendientes de Daniel: 9.1 (PowerShell caché) y nombre de la CPU en el resultado de Geekbench 6
 - [x] 11.1 En la VM de ISO (VMware). Captura 1 UEFI Boot Manager ✅ (`capturas/11.1-vm-uefi-boot-manager.png`); captura 2 Advanced ✅: firmware UEFI, **Secure Boot desactivado**, aviso «Firmware cannot be changed while TPM device exists» (hay TPM), Access Control Encrypted; captura 3 Hardware ✅: **TPM Present** (`capturas/11.1-vm-settings-hardware-tpm.png`). Texto redactado por Claude
 - [x] 12 Diseña tu equipo: servidor doméstico, 550 €, tabla final **518,30 €** con precios reales (Claude Desktop)
-- [ ] 13 Averías ← siguiente
+- [x] 13 Averías (redactado por Claude)
+- [ ] Generar el PDF de entrega ← siguiente (faltan capturas 9.1 y CPU en Geekbench; decidir fuente CoolBox vs UNYKAch)
 - [ ] Generar el PDF de entrega
 
 ## Respuestas ya corregidas
@@ -65,6 +66,13 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
   | **Total** | | **518,30 €** |
   Enlaces en la respuesta de Claude Desktop (pegada en el chat). Alternativas: fuente UNYKAch Atilius 2.0 500 W (vendida por PcComponentes) 42,99 € → 526,12 €; CPU Ryzen 3 3200G 76,61 € → 498,87 €. La A520M-HVS no admite Ryzen 3000G → por eso se cambió a B450.
   Enlaces: placa https://www.pccomponentes.com/asus-prime-b450m-k-ii · CPU https://www.pccomponentes.com/procesador-amd-ryzen-5-3400g-4-nucleos-3-7-ghz-frecuencia-base-4-2-ghz-turbo-overclocking-graficos-vega-11 · RAM https://www.pccomponentes.com/memoria-ram-silicon-power-sp016gblfu266x22-16gb-2x8gb-ddr4-udimm-2666mhz-cl19 · SSD https://www.pccomponentes.com/disco-duro-kingston-nv3-500gb-ssd-m-2-nvme-2280-pcie-4-0-3d-nand · fuente https://www.pccomponentes.com/coolbox-force-br-500-500w-80-plus-bronze · caja https://www.pccomponentes.com/torre-pc-tempest-airflow-rampart-argb-m-atx-negra · teclado https://www.pccomponentes.com/logitech-mk270-combo-teclado-y-raton-inalambrico-para-windows-raton-compacto-8-teclas-multimedia
+- **13** (Claude):
+  | Síntoma | Causa probable | Cómo lo comprobarías |
+  |---|---|---|
+  | Ventilador gira, sin imagen | RAM mal colocada o defectuosa (el POST no pasa) o fallo de la gráfica / cable de vídeo | Reinsertar la RAM probando módulo a módulo y revisar el cable y la salida de vídeo |
+  | Pitidos y no continúa | El POST ha detectado un error de hardware (normalmente RAM o gráfica) | Contar los pitidos y buscar el código en el manual de la placa base |
+  | No detecta el disco principal | Cable de datos/alimentación suelto o disco averiado | Entrar en la BIOS/UEFI y ver si aparece el disco; revisar cables o probar otro puerto |
+  | Se apaga tras uso intenso | Sobrecalentamiento de la CPU (polvo, ventilador o pasta térmica seca) | Medir la temperatura con HWiNFO mientras el equipo trabaja a tope |
 
 ## Equipo de Daniel (CPU-Z, 10.1)
 
