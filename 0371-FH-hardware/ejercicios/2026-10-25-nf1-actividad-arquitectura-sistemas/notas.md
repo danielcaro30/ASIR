@@ -32,8 +32,8 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - [x] 10.6 Comparar: 2436 vs 2550 (≈ −4,5 %), 11741 vs 12150 (≈ −3,4 %) → prácticamente igual (redactado por Claude)
 - [ ] Capturas pendientes de Daniel: 9.1 (PowerShell caché) y nombre de la CPU en el resultado de Geekbench 6
 - [x] 11.1 En la VM de ISO (VMware). Captura 1 UEFI Boot Manager ✅ (`capturas/11.1-vm-uefi-boot-manager.png`); captura 2 Advanced ✅: firmware UEFI, **Secure Boot desactivado**, aviso «Firmware cannot be changed while TPM device exists» (hay TPM), Access Control Encrypted; captura 3 Hardware ✅: **TPM Present** (`capturas/11.1-vm-settings-hardware-tpm.png`). Texto redactado por Claude
-- [ ] 12 Diseña tu equipo (550 €): tipo **servidor doméstico** (elegido por Daniel). Siguiente: CPU + placa (compatibilidad de socket)
-- [ ] 13 Averías
+- [x] 12 Diseña tu equipo: servidor doméstico, 550 €, propuesta de Claude = **534,78 €** (precios de búsquedas, Daniel debe comprobarlos en cada enlace)
+- [ ] 13 Averías ← siguiente
 - [ ] Generar el PDF de entrega
 
 ## Respuestas ya corregidas
@@ -50,6 +50,21 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - **10.5** (Claude): página oficial del procesador sin datos (0/0) → búsqueda GB6 «i7-13620H», 8 resultados, mediana 2550 / 12150.
 - **10.6** (Claude): «Mi equipo rinde prácticamente igual que el típico: 2436 frente a 2550 en un solo núcleo (−4,5 %) y 11741 frente a 12150 en multinúcleo (−3,4 %). Una diferencia tan pequeña es normal entre equipos con la misma CPU. Puede deberse a procesos en segundo plano o a que el portátil reduce la frecuencia al calentarse (throttling térmico), ya que otros modelos, como los Casper Excalibur, tienen mejor refrigeración y más potencia (14 000 puntos multinúcleo).»
 - **11.1** (Claude): «Como no quiero arriesgar la configuración de mi portátil, lo he comprobado en la máquina virtual de Windows 11 de VMware (Power On to Firmware y VM Settings), sin cambiar nada. Firmware UEFI, Secure Boot desactivado y TPM activado (Present). Secure Boot comprueba con firmas digitales que el sistema operativo que arranca es de confianza, y así evita malware en el arranque (bootkits). El TPM guarda claves cifradas de forma segura, y lo usa por ejemplo BitLocker. Windows 11 exige UEFI compatible con Secure Boot y TPM 2.0; por eso la VM tiene TPM.»
+- **12.1** (Claude): servidor doméstico para practicar VMs y servicios de red de ASIR y guardar copias; sin gráfica dedicada → presupuesto a RAM y almacenamiento.
+- **12.2**: Daniel, 550 €.
+- **12.3** (Claude, precios PcComponentes vistos en búsquedas el 27/10/2026, sin verificar en vivo):
+  | Componente | Modelo | Precio |
+  |---|---|---|
+  | Placa | ASRock A520M-HVS (AM4, DDR4, mATX, 1 M.2, 4 SATA) | 51,99 € |
+  | CPU | AMD Ryzen 5 5600G (6/12, Radeon integrada, 65 W, disipador incluido) | 104,71 € |
+  | RAM | Corsair Vengeance LPX DDR4 3200 16 GB (2×8) CL16 | 139,25 € |
+  | Almacenamiento | Kingston NV3 500 GB NVMe | 104,95 € |
+  | Fuente | Corsair CV550 550 W 80 Plus Bronze | 61,90 € |
+  | Caja | Tempest Airflow Rampart ARGB M-ATX | 42,99 € |
+  | Periférico | Logitech MK270 (2,4 GHz receptor USB) | 28,99 € |
+  | Otros | — (ampliable con HDD por SATA) | 0 € |
+  | **Total** | | **534,78 €** |
+  RAM y almacenamiento muy caros en 2026 (32 GB DDR4 ~260-300 €, HDD NAS 2 TB ~180 €) → 16 GB y SSD de 500 GB.
 
 ## Equipo de Daniel (CPU-Z, 10.1)
 
