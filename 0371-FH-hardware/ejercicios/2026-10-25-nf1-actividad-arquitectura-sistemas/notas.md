@@ -34,7 +34,7 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - [x] 11.1 En la VM de ISO (VMware). Captura 1 UEFI Boot Manager ✅ (`capturas/11.1-vm-uefi-boot-manager.png`); captura 2 Advanced ✅: firmware UEFI, **Secure Boot desactivado**, aviso «Firmware cannot be changed while TPM device exists» (hay TPM), Access Control Encrypted; captura 3 Hardware ✅: **TPM Present** (`capturas/11.1-vm-settings-hardware-tpm.png`). Texto redactado por Claude
 - [x] 12 Diseña tu equipo: servidor doméstico, 550 €, tabla final **518,30 €** con precios reales (Claude Desktop)
 - [x] 13 Averías (redactado por Claude)
-- [ ] Generar el PDF de entrega ← siguiente (faltan capturas 9.1 y CPU en Geekbench; decidir fuente CoolBox vs UNYKAch)
+- [ ] PDF de entrega: Daniel lo ha montado (`entrega-borrador-v1.pdf`), revisado por Claude. Pendiente: nombre en portada, texto 9.1, 9.4 ,96→,97, 9.6 ampliar, texto 10.5, explicación 11.1 + capturas más grandes, justificación 12.1, decimales con coma en 12.3, acentos 9.3
 - [ ] Generar el PDF de entrega
 
 ## Respuestas ya corregidas
