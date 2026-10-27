@@ -24,7 +24,8 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - [x] 9.4 Elegir 32 GB
 - [x] 9.5 8+8+16 GB y dual channel
 - [x] 9.6 DDR4 3200/2933/2666
-- [ ] 10.1-10.6 CPU-Z/HWiNFO, CrystalDiskInfo, benchmark (capturas)
+- [x] 10.1 CPU-Z: capturas en `capturas/10.1-*.png`
+- [ ] 10.2-10.6 CrystalDiskInfo, benchmark (capturas)
 - [ ] 11.1 BIOS/UEFI (foto)
 - [ ] 12 Diseña tu equipo (550 €)
 - [ ] 13 Averías
@@ -39,6 +40,12 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - **9.4** Elige DDR4-3200 CL16: latencia (16/1600)×1000 = 10 ns vs (16/1333)×1000 = 12,00 ns; ancho de banda 24 414,06 vs 20 339,97 MB/s. Mismo CL, más frecuencia → ciclo más corto → menos latencia y más ancho de banda ✅ (al principio olvidó dividir la frecuencia entre 2)
 - **9.5** 8+8+16 = 32 GB. Dual channel: sí si 8+8 en un canal y 16 en el otro (16 GB por canal, todos a 3200) ⚠️ no sale en los apuntes; versión apuntes: módulos distintos → no es dual channel puro
 - **9.6** Frecuencias DDR4 (MHz) que admite la placa; máx. 3200; una memoria más rápida funcionaría a 3200 como mucho
+
+## Equipo de Daniel (CPU-Z, 10.1)
+
+- Portátil **HP**, placa modelo **8BBE**, chipset Intel Raptor Lake, BIOS Insyde F.31 (22/04/2026).
+- CPU **Intel Core i7-13620H** (13.ª gen, Raptor Lake, 10 nm, 45 W, BGA soldado): **10 núcleos (6P + 4E), 16 hilos**. Caché L1D 6×48 + 4×32 KB, L2 6×1,25 MB + 2 MB, **L3 24 MB**.
+- RAM **32 GB DDR5**, 4×32-bit (= dual channel en DDR5), DRAM Frequency 2593,7 MHz (×2 ≈ DDR5-5200), **CL42** → latencia (42/2593,7)×1000 ≈ 16,19 ns.
 
 ## Dudas y avisos
 
