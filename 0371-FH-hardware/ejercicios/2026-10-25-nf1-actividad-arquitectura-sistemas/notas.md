@@ -32,7 +32,7 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - [x] 10.6 Comparar: 2436 vs 2550 (≈ −4,5 %), 11741 vs 12150 (≈ −3,4 %) → prácticamente igual (redactado por Claude)
 - [ ] Capturas pendientes de Daniel: 9.1 (PowerShell caché) y nombre de la CPU en el resultado de Geekbench 6
 - [x] 11.1 En la VM de ISO (VMware). Captura 1 UEFI Boot Manager ✅ (`capturas/11.1-vm-uefi-boot-manager.png`); captura 2 Advanced ✅: firmware UEFI, **Secure Boot desactivado**, aviso «Firmware cannot be changed while TPM device exists» (hay TPM), Access Control Encrypted; captura 3 Hardware ✅: **TPM Present** (`capturas/11.1-vm-settings-hardware-tpm.png`). Texto redactado por Claude
-- [x] 12 Diseña tu equipo: servidor doméstico, 550 €, propuesta de Claude = **534,78 €** (precios de búsquedas, Daniel debe comprobarlos en cada enlace)
+- [x] 12 Diseña tu equipo: servidor doméstico, 550 €, tabla final **518,30 €** con precios reales (Claude Desktop)
 - [ ] 13 Averías ← siguiente
 - [ ] Generar el PDF de entrega
 
@@ -52,19 +52,19 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - **11.1** (Claude): «Como no quiero arriesgar la configuración de mi portátil, lo he comprobado en la máquina virtual de Windows 11 de VMware (Power On to Firmware y VM Settings), sin cambiar nada. Firmware UEFI, Secure Boot desactivado y TPM activado (Present). Secure Boot comprueba con firmas digitales que el sistema operativo que arranca es de confianza, y así evita malware en el arranque (bootkits). El TPM guarda claves cifradas de forma segura, y lo usa por ejemplo BitLocker. Windows 11 exige UEFI compatible con Secure Boot y TPM 2.0; por eso la VM tiene TPM.»
 - **12.1** (Claude): servidor doméstico para practicar VMs y servicios de red de ASIR y guardar copias; sin gráfica dedicada → presupuesto a RAM y almacenamiento.
 - **12.2**: Daniel, 550 €.
-- **12.3** (Claude, precios PcComponentes vistos en búsquedas el 27/10/2026, sin verificar en vivo):
+- **12.3** (precios reales comprobados por Claude Desktop en el navegador de Daniel, 27/10/2026). La propuesta inicial salía a 804,89 € (RAM Corsair 2×8 a 414,36 €; 5600G y CV550 agotados):
   | Componente | Modelo | Precio |
   |---|---|---|
-  | Placa | ASRock A520M-HVS (AM4, DDR4, mATX, 1 M.2, 4 SATA) | 51,99 € |
-  | CPU | AMD Ryzen 5 5600G (6/12, Radeon integrada, 65 W, disipador incluido) | 104,71 € |
-  | RAM | Corsair Vengeance LPX DDR4 3200 16 GB (2×8) CL16 | 139,25 € |
-  | Almacenamiento | Kingston NV3 500 GB NVMe | 104,95 € |
-  | Fuente | Corsair CV550 550 W 80 Plus Bronze | 61,90 € |
-  | Caja | Tempest Airflow Rampart ARGB M-ATX | 42,99 € |
-  | Periférico | Logitech MK270 (2,4 GHz receptor USB) | 28,99 € |
-  | Otros | — (ampliable con HDD por SATA) | 0 € |
-  | **Total** | | **534,78 €** |
-  RAM y almacenamiento muy caros en 2026 (32 GB DDR4 ~260-300 €, HDD NAS 2 TB ~180 €) → 16 GB y SSD de 500 GB.
+  | Placa | Asus Prime B450M-K II (AM4, B450, DDR4, mATX, 1 M.2) | 91,17 € |
+  | CPU | AMD Ryzen 5 3400G (4/8, Vega 11, Wraith Spire) | 96,04 € |
+  | RAM | Silicon Power DDR4 2666 16 GB (2×8) CL19 | 123,99 € |
+  | Almacenamiento | Kingston NV3 500 GB NVMe | 99,95 € |
+  | Fuente | CoolBox Force BR-500 500 W 80 Plus Bronze | 35,17 € |
+  | Caja | Tempest Airflow Rampart ARGB M-ATX | 46,99 € |
+  | Periférico | Logitech MK270 (dongle 2,4 GHz) | 24,99 € |
+  | **Total** | | **518,30 €** |
+  Enlaces en la respuesta de Claude Desktop (pegada en el chat). Alternativas: fuente UNYKAch Atilius 2.0 500 W (vendida por PcComponentes) 42,99 € → 526,12 €; CPU Ryzen 3 3200G 76,61 € → 498,87 €. La A520M-HVS no admite Ryzen 3000G → por eso se cambió a B450.
+  Enlaces: placa https://www.pccomponentes.com/asus-prime-b450m-k-ii · CPU https://www.pccomponentes.com/procesador-amd-ryzen-5-3400g-4-nucleos-3-7-ghz-frecuencia-base-4-2-ghz-turbo-overclocking-graficos-vega-11 · RAM https://www.pccomponentes.com/memoria-ram-silicon-power-sp016gblfu266x22-16gb-2x8gb-ddr4-udimm-2666mhz-cl19 · SSD https://www.pccomponentes.com/disco-duro-kingston-nv3-500gb-ssd-m-2-nvme-2280-pcie-4-0-3d-nand · fuente https://www.pccomponentes.com/coolbox-force-br-500-500w-80-plus-bronze · caja https://www.pccomponentes.com/torre-pc-tempest-airflow-rampart-argb-m-atx-negra · teclado https://www.pccomponentes.com/logitech-mk270-combo-teclado-y-raton-inalambrico-para-windows-raton-compacto-8-teclas-multimedia
 
 ## Equipo de Daniel (CPU-Z, 10.1)
 
