@@ -31,8 +31,8 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - [x] 10.5 Captura de la búsqueda GB6 «i7-13620H» (`capturas/10.5-geekbench6-busqueda-i7-13620h.png`). La página del procesador salía 0/0. 8 resultados → mediana **single 2550** ((2528+2572)/2), **multi 12150,5** ((11348+12953)/2)
 - [x] 10.6 Comparar: 2436 vs 2550 (≈ −4,5 %), 11741 vs 12150 (≈ −3,4 %) → prácticamente igual (redactado por Claude)
 - [ ] Capturas pendientes de Daniel: 9.1 (PowerShell caché) y nombre de la CPU en el resultado de Geekbench 6
-- [ ] 11.1 En la VM de ISO (VMware). Captura 1 UEFI Boot Manager ✅ (`capturas/11.1-vm-uefi-boot-manager.png`); captura 2 Advanced ✅: firmware UEFI, **Secure Boot desactivado**, aviso «Firmware cannot be changed while TPM device exists» (hay TPM), Access Control Encrypted; captura 3 Hardware ✅: **TPM Present** (`capturas/11.1-vm-settings-hardware-tpm.png`). Falta el texto de 1-2 líneas
-- [ ] 12 Diseña tu equipo (550 €)
+- [x] 11.1 En la VM de ISO (VMware). Captura 1 UEFI Boot Manager ✅ (`capturas/11.1-vm-uefi-boot-manager.png`); captura 2 Advanced ✅: firmware UEFI, **Secure Boot desactivado**, aviso «Firmware cannot be changed while TPM device exists» (hay TPM), Access Control Encrypted; captura 3 Hardware ✅: **TPM Present** (`capturas/11.1-vm-settings-hardware-tpm.png`). Texto redactado por Claude
+- [ ] 12 Diseña tu equipo (550 €) ← siguiente
 - [ ] 13 Averías
 - [ ] Generar el PDF de entrega
 
@@ -49,6 +49,7 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - **10.3**: «Elijo Geekbench 6 porque mide el rendimiento del procesador (un núcleo y multinúcleo) y permite comparar el resultado online con otros equipos con la misma CPU en browser.geekbench.com.»
 - **10.5** (Claude): página oficial del procesador sin datos (0/0) → búsqueda GB6 «i7-13620H», 8 resultados, mediana 2550 / 12150.
 - **10.6** (Claude): «Mi equipo rinde prácticamente igual que el típico: 2436 frente a 2550 en un solo núcleo (−4,5 %) y 11741 frente a 12150 en multinúcleo (−3,4 %). Una diferencia tan pequeña es normal entre equipos con la misma CPU. Puede deberse a procesos en segundo plano o a que el portátil reduce la frecuencia al calentarse (throttling térmico), ya que otros modelos, como los Casper Excalibur, tienen mejor refrigeración y más potencia (14 000 puntos multinúcleo).»
+- **11.1** (Claude): «Como no quiero arriesgar la configuración de mi portátil, lo he comprobado en la máquina virtual de Windows 11 de VMware (Power On to Firmware y VM Settings), sin cambiar nada. Firmware UEFI, Secure Boot desactivado y TPM activado (Present). Secure Boot comprueba con firmas digitales que el sistema operativo que arranca es de confianza, y así evita malware en el arranque (bootkits). El TPM guarda claves cifradas de forma segura, y lo usa por ejemplo BitLocker. Windows 11 exige UEFI compatible con Secure Boot y TPM 2.0; por eso la VM tiene TPM.»
 
 ## Equipo de Daniel (CPU-Z, 10.1)
 
