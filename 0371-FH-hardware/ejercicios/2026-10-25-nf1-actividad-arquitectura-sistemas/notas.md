@@ -25,7 +25,8 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - [x] 9.5 8+8+16 GB y dual channel
 - [x] 9.6 DDR4 3200/2933/2666
 - [x] 10.1 CPU-Z: capturas en `capturas/10.1-*.png`
-- [ ] 10.2-10.6 CrystalDiskInfo, benchmark (capturas)
+- [x] 10.2 CrystalDiskInfo: captura en `capturas/10.2-crystaldiskinfo.png` (falta texto de Daniel)
+- [ ] 10.3-10.6 Benchmark (capturas)
 - [ ] 11.1 BIOS/UEFI (foto)
 - [ ] 12 Diseña tu equipo (550 €)
 - [ ] 13 Averías
@@ -46,6 +47,7 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - Portátil **HP**, placa modelo **8BBE**, chipset Intel Raptor Lake, BIOS Insyde F.31 (22/04/2026).
 - CPU **Intel Core i7-13620H** (13.ª gen, Raptor Lake, 10 nm, 45 W, BGA soldado): **10 núcleos (6P + 4E), 16 hilos**. Caché L1D 6×48 + 4×32 KB, L2 6×1,25 MB + 2 MB, **L3 24 MB**.
 - RAM **32 GB DDR5**, 4×32-bit (= dual channel en DDR5), DRAM Frequency 2593,7 MHz (×2 ≈ DDR5-5200), **CL42** → latencia (42/2593,7)×1000 ≈ 16,19 ns.
+- Disco **WD PC SN560 1 TB** NVMe, PCIe 4.0 x4: **Bueno 98 %**, 42 °C, 2001 h, 295 encendidos, avisos críticos 0, reservas 100 % (umbral 5 %), uso 2 %, errores de integridad 0, 38 apagados no seguros.
 
 ## Dudas y avisos
 
