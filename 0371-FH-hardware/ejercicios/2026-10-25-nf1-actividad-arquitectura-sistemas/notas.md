@@ -29,8 +29,9 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - [x] 10.3 Geekbench 6 (por defecto, Daniel no eligió otra)
 - [x] 10.4 **Geekbench 6.7.1**: **Single 2436 / Multi 11741**. Captura `capturas/10.4-geekbench6-resultado.png` (falta otra con el nombre de la CPU). Antes pasó Geekbench 7.1.0 (2063 / 11874): descartado porque no hay datos de referencia de GB7 para su CPU.
 - [x] 10.5 Captura de la búsqueda GB6 «i7-13620H» (`capturas/10.5-geekbench6-busqueda-i7-13620h.png`). La página del procesador salía 0/0. 8 resultados → mediana **single 2550** ((2528+2572)/2), **multi 12150,5** ((11348+12953)/2)
-- [ ] 10.6 Comparar: 2436 vs 2550 (≈ −4,5 %), 11741 vs 12150 (≈ −3,4 %) → casi igual, algo por debajo (esperando texto de Daniel)
-- [ ] 11.1 BIOS/UEFI (foto)
+- [x] 10.6 Comparar: 2436 vs 2550 (≈ −4,5 %), 11741 vs 12150 (≈ −3,4 %) → prácticamente igual (redactado por Claude)
+- [ ] Capturas pendientes de Daniel: 9.1 (PowerShell caché) y nombre de la CPU en el resultado de Geekbench 6
+- [ ] 11.1 BIOS/UEFI (foto) ← siguiente
 - [ ] 12 Diseña tu equipo (550 €)
 - [ ] 13 Averías
 - [ ] Generar el PDF de entrega
@@ -46,6 +47,8 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - **9.6** Frecuencias DDR4 (MHz) que admite la placa; máx. 3200; una memoria más rápida funcionaría a 3200 como mucho
 - **10.2** (redactado por Claude): «El disco WD PC SN560 de 1 TB (SSD NVMe, PCIe 4.0 x4) tiene un estado de salud «Bueno» (98 %): está sano y solo ha gastado un 2 % de su vida útil (atributo 05). La temperatura es de 42 °C, normal para un SSD. No hay avisos críticos (01 = 0), ni errores de integridad (0E = 0), y conserva el 100 % de las celdas de reserva (03), así que no hay que hacer nada; solo seguir con las copias de seguridad habituales.»
 - **10.3**: «Elijo Geekbench 6 porque mide el rendimiento del procesador (un núcleo y multinúcleo) y permite comparar el resultado online con otros equipos con la misma CPU en browser.geekbench.com.»
+- **10.5** (Claude): página oficial del procesador sin datos (0/0) → búsqueda GB6 «i7-13620H», 8 resultados, mediana 2550 / 12150.
+- **10.6** (Claude): «Mi equipo rinde prácticamente igual que el típico: 2436 frente a 2550 en un solo núcleo (−4,5 %) y 11741 frente a 12150 en multinúcleo (−3,4 %). Una diferencia tan pequeña es normal entre equipos con la misma CPU. Puede deberse a procesos en segundo plano o a que el portátil reduce la frecuencia al calentarse (throttling térmico), ya que otros modelos, como los Casper Excalibur, tienen mejor refrigeración y más potencia (14 000 puntos multinúcleo).»
 
 ## Equipo de Daniel (CPU-Z, 10.1)
 
