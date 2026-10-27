@@ -27,7 +27,8 @@ Ejercicios 9 a 13 (`enunciado.pdf`): memoria (caché, latencia, ancho de banda, 
 - [x] 10.1 CPU-Z: capturas en `capturas/10.1-*.png`
 - [x] 10.2 CrystalDiskInfo: captura en `capturas/10.2-crystaldiskinfo.png` (texto redactado por Claude a petición de Daniel, en «Respuestas»)
 - [x] 10.3 Geekbench 6 (por defecto, Daniel no eligió otra)
-- [ ] 10.4-10.6 Ejecutar Geekbench, buscar i7-13620H en browser.geekbench.com, comparar
+- [x] 10.4 Geekbench: **Single 2063 / Multi 11874** (HP Victus 16-r0xxx). Captura `capturas/10.4-geekbench-resultado.png`. ⚠️ Es **Geekbench 7.1.0**, no 6: comparar solo con resultados de Geekbench 7 y avisarlo en el documento. Falta que se vea el nombre de la CPU.
+- [ ] 10.5-10.6 Buscar i7-13620H en browser.geekbench.com (resultados GB7) y comparar
 - [ ] 11.1 BIOS/UEFI (foto)
 - [ ] 12 Diseña tu equipo (550 €)
 - [ ] 13 Averías
