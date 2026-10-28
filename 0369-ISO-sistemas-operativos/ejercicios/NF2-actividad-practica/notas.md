@@ -62,7 +62,7 @@ En `apuntes/` (las videoconferencias `NF2-videoconferencia-1/2/3.pdf` solo resum
 ## Progreso
 
 - [x] 1.1 Windows 11 Pro: Administración de discos (disco 100 GB)
-- [ ] 1.1 Windows 11 Pro: aplicación de terceros (disco 100 GB + disco 50 GB)
+- [x] 1.1 Windows 11 Pro: aplicación de terceros (MiniTool Partition Wizard Free 13.9; disco 100 GB → 55/45 GB; disco 50 GB con 3 primarias + 3 lógicas)
 - [ ] 1.2 Ubuntu
 - [ ] 4.1 Windows Server 2025
 - [ ] 2 RAID
@@ -71,7 +71,7 @@ En `apuntes/` (las videoconferencias `NF2-videoconferencia-1/2/3.pdf` solo resum
 - [ ] 5 Directorio Activo II
 - [ ] 6 NFS / SAMBA
 
-**Último paso dado:** Paso 7 (disco de 100 GB vacío). Siguiente: Paso 8, instalar MiniTool Partition Wizard Free y Paso 9, crear 50 + 10 GB con él.
+**Último paso dado:** Bloque 1.1 terminado (Paso 15b). Siguiente: bloque 1.2 Ubuntu (falta decidir gráfico o consola).
 
 ## Decisiones pendientes
 
