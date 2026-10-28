@@ -11,6 +11,6 @@
 
 | Ejercicio | Unidad | Entrega | Estado |
 |---|---|---|---|
-| _(ninguno todavía)_ | | | |
+| [Actividad práctica NF2](ejercicios/NF2-actividad-practica/notas.md) (particiones, RAID, copias, AD, NFS/SAMBA) | NF2 | 2026-11-05 (PDF) | 🔄 En curso |
 
 <!-- Estado: ⏳ Sin empezar · 🔄 En curso · ✅ Terminado · 📤 Entregado -->
