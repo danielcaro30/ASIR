@@ -61,7 +61,7 @@ En `apuntes/` (las videoconferencias `NF2-videoconferencia-1/2/3.pdf` solo resum
 
 ## Progreso
 
-- [ ] 1.1 Windows 11 Pro: Administración de discos (disco 100 GB)
+- [x] 1.1 Windows 11 Pro: Administración de discos (disco 100 GB)
 - [ ] 1.1 Windows 11 Pro: aplicación de terceros (disco 100 GB + disco 50 GB)
 - [ ] 1.2 Ubuntu
 - [ ] 4.1 Windows Server 2025
@@ -71,7 +71,7 @@ En `apuntes/` (las videoconferencias `NF2-videoconferencia-1/2/3.pdf` solo resum
 - [ ] 5 Directorio Activo II
 - [ ] 6 NFS / SAMBA
 
-**Último paso dado:** Paso 1 (instantánea + disco de 100 GB en la VM Windows 11).
+**Último paso dado:** Paso 7 (disco de 100 GB vacío). Siguiente: Paso 8, instalar MiniTool Partition Wizard Free y Paso 9, crear 50 + 10 GB con él.
 
 ## Decisiones pendientes
 
@@ -81,6 +81,8 @@ En `apuntes/` (las videoconferencias `NF2-videoconferencia-1/2/3.pdf` solo resum
 - ¿Existen ya la VM Ubuntu de NF1 y una VM Windows Server de NF1?
 
 ## Dudas y avisos
+
+- **VM Windows 11 en NAT** (para internet). Si tenía IP fija de NF1 se quitó (DHCP). Para el bloque 5 (unirla al dominio) volver a **Host-only + IP fija**.
 
 - **`coor1` no existe** en la estructura del dominio: el grupo Coordinación lo forman prof1 y prof2. Para las filas de «coor1 / usuario de coordinación» usar **prof2** (prof1 ya se prueba aparte). Si se prefiere, crear `coor1` y meterlo en Coordinación, pero no lo pide la estructura.
 - Windows 11, parte con aplicación de terceros: 6 particiones en un disco MBR → harán falta **3 primarias + extendida con lógicas** (MBR admite máx. 4 primarias).
