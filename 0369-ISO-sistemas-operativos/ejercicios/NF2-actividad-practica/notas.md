@@ -27,13 +27,26 @@ Word con capturas en 6 bloques: particiones (Windows 11 Pro + Ubuntu 26.04 gráf
 
 ## Apuntes que hacen falta
 
-En el repo solo están las diapositivas de las videoconferencias (`apuntes/NF2-videoconferencia-1/2/3.pdf`). Remiten a material que **falta subir**:
+En `apuntes/` (las videoconferencias `NF2-videoconferencia-1/2/3.pdf` solo resumen y remiten a estos):
 
-- [ ] Apuntes **NF2 1. Administración y aseguramiento de la información** (págs. 68-78 → RAID; también particiones y copias).
-- [ ] Apuntes **NF2 2. Administración de dominios**.
-- [ ] Apuntes **NF2 3. Administración del acceso al dominio** (3.2, 3.4, 3.6 → permisos).
-- [ ] Contenido extra: **Windows Server 2025 en inglés** e **Instalación Active Directory**.
-- [ ] Contenido extra: **NFS.pdf** o **SAMBA.pdf** (el que elija Daniel).
+| Bloque | Apuntes (página del PDF) |
+|---|---|
+| 1 Particiones | `NF2-1-…informacion.pdf` · 1.9 (págs. 40-67): MBR/GPT, primaria/extendida/lógica, Administración de discos, diskpart, fdisk, herramientas de terceros |
+| 2 RAID | `NF2-1-…` · 1.10-1.11 (págs. 68-78) |
+| 3 Copias | `NF2-1-…` · 1.13-1.18 (págs. 79-85) |
+| 4.2-4.3 AD y estructura | `NF2-2-administracion-de-dominios.pdf` · 2.3 dominio (10-23), 2.6 cuentas (29-34), 2.10 grupos (43+) |
+| 4.4 Permisos carpetas | `NF2-3-administracion-del-acceso-al-dominio.pdf` · 3.2 (11-15), 3.4 (17-34), 3.6 (36-37) |
+| 5.1 Unir al dominio | `NF2-3-…` · 3.1 (4-10) |
+| 5.2 Horario / equipos | `NF2-2-…` · 2.6 cuentas de usuarios y equipos (29-34) |
+| 5.3 GPO | `NF2-3-…` · 3.7 (38+) |
+| 5.4 Delegación | `NF2-3-…` · 3.5 (35) |
+| 6 NFS/SAMBA | `NF2-3-…` · 3.3 (16) |
+
+**Falta subir** (contenido extra de la plataforma):
+
+- [ ] **Windows Server 2025 en inglés** e **Instalación Active Directory**.
+- [ ] **Discos y particiones en Linux mediante consola** (solo si Ubuntu por consola).
+- [ ] **NFS.pdf** o **SAMBA.pdf** (el que elija Daniel).
 
 ## Orden de trabajo propuesto
 
