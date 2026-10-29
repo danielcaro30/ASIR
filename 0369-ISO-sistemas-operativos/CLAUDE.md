@@ -12,7 +12,10 @@
 
 ## Entorno y material
 
-- Daniel hace las prácticas en una **máquina virtual de VMware**: Windows 11 Pro, usuario administrador `DanielW11` (sin contraseña).
+- Daniel hace las prácticas en **máquinas virtuales de VMware**, guardadas en `C:\VMs\Virtual Machines\` (fuera de OneDrive, que corrompía los discos):
+  - **Windows 11 Pro**: usuario administrador `DanielW11` (sin contraseña).
+  - **Ubuntu** (VM `DanielUbuntu`, equipo `Daniel-Ubuntu`, carpeta `Ubuntu 64-bit`): la contraseña la sabe Daniel (no se guarda en el repo). Si la olvida, se cambia con `passwd <usuario>` desde una consola root. En `/etc/fstab` la línea de la carpeta compartida `.host:/ /mnt/hgfs` lleva `nofail`; sin él, Ubuntu arranca en modo de emergencia.
+- En VMware, la carpeta por defecto para VMs nuevas debe ser `C:\VMs` (las carpetas *Documentos*/*Escritorio* del PC están redirigidas a OneDrive).
 - El profesor entrega:
   - Un **Word de ejercicios**: normalmente una tabla con una fila para el enunciado y una fila vacía para pegar la captura.
   - **Apuntes en PDF**: presentaciones y material complementario.
